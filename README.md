@@ -19,6 +19,7 @@ Distinction and highest mark in class
 MSci and BA Hons Natural Sciences (Chemistry)
 2.1 classification in all years
 
+|---|---|
 |2014-2016|Imperial College London|
 ||PhD candidate in Structural Bioinformatics|
 ||Funded by [BBSRC](http://www.bbsrc.ac.uk/)|
