@@ -1,4 +1,4 @@
-I am a second year PhD student in the [Structural Bioinformatics Group](http://www.sbg.bio.ic.ac.uk/index.html) at Imperial College London.
+I am a second year PhD student in the [Structural Bioinformatics Group](http://www.sbg.bio.ic.ac.uk/index.html) at [Imperial College London](https://www.imperial.ac.uk).
 
 My interests include structural bioinformatics, software development and open science. Currently my research involves developing computational methods to predict modulating sites on proteins.
 
@@ -7,7 +7,7 @@ My interests include structural bioinformatics, software development and open sc
 
 # Education
 
-2014- Imperial College London
+2014-2016 Imperial College London
 PhD candidate in Structural Bioinformatics
 Funded by [BBSRC](http://www.bbsrc.ac.uk/)
 
@@ -18,6 +18,16 @@ Distinction and highest mark in class
 2009-2013 Emmanuel College, University of Cambridge
 MSci and BA Hons Natural Sciences (Chemistry)
 2.1 classification in all years
+
+|2014-2016|Imperial College London|
+||PhD candidate in Structural Bioinformatics|
+||Funded by [BBSRC](http://www.bbsrc.ac.uk/)|
+|2013-2014 |Imperial College London|
+||MSc Bioinformatics and Theoretical Systems Biology|
+||Distinction and highest mark in class|
+|2009-2013|Emmanuel College, University of Cambridge|
+||MSci and BA Hons Natural Sciences (Chemistry)|
+||2.1 classification in all years|
 
 
 # Publications
