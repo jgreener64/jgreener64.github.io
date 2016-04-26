@@ -26,4 +26,9 @@ Greener, JG and Sternberg, MJE. AlloPred: prediction of allosteric pockets on pr
 - Eight-week placement at the University of São Paulo (summer 2013) on virtual screening to re-purpose existing drugs.
 - Eight-week placement at Imperial College London (summer 2011) on computational modelling of ionic liquids.
 - Lead web developer in the AllwriteUCAS project that gives applicants to university the skills to write an effective personal statement (website under development).
-- Proficient in Python, Julia and UNIX. Some experience with C++, C#, Java, JavaScript, SQL and HTML/CSS.
+- Proficient in Python, Julia and UNIX. Some experience with C++, C#, R, Java, JavaScript, SQL and HTML/CSS.
+
+
+# Contact
+
+Email: joe.greener13 at imperial.ac.uk
