@@ -27,6 +27,8 @@ Greener, JG and Sternberg, MJE. AlloPred: prediction of allosteric pockets on pr
 - Eight-week placement at Imperial College London (summer 2011) on computational modelling of ionic liquids.
 - Lead web developer in the AllwriteUCAS project that gives applicants to university the skills to write an effective personal statement (website under development).
 - Proficient in Python, Julia and UNIX. Some experience with C++, C#, R, Java, JavaScript, SQL and HTML/CSS.
+- Supervision of eleven-week MSc project and ten-week BSc project at Imperial, involving project design and regular meeting with the students.
+- Gave a talk on my PhD work at the Bioinformatics London Meetup group in April 2016.
 
 
 # Contact
