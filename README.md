@@ -7,7 +7,7 @@ My interests include protein structures, computational drug discovery, software 
 
 # Education
 
-**2014-2016** | *Imperial College London* | PhD candidate in Structural Bioinformatics | Funded by [BBSRC](http://www.bbsrc.ac.uk/)
+**2014-2016** | *Imperial College London* | PhD candidate in Structural Bioinformatics | Funded by [BBSRC](http://www.imperial.ac.uk/bbsrc-doctoral-training-partnership)
 
 **2013-2014** | *Imperial College London* | MSc Bioinformatics and Theoretical Systems Biology | Distinction and highest mark in class
 
@@ -16,18 +16,20 @@ My interests include protein structures, computational drug discovery, software 
 
 # Publications
 
-Greener, JG and Sternberg, MJE. AlloPred: prediction of allosteric pockets on proteins using normal mode perturbation analysis, *BMC Bioinformatics*, 2015, 16(335) | [Link](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0771-1) | [Website](http://www.sbg.bio.ic.ac.uk/allopred/home)
+Greener, JG and Sternberg, MJE. AlloPred: prediction of allosteric pockets on proteins using normal mode perturbation analysis, *BMC Bioinformatics* (2015) 16:335 | [Link](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0771-1) | [Website](http://www.sbg.bio.ic.ac.uk/allopred/home)
 
 
 # Experience and skills
 
 - Developed a novel computational procedure, AlloPred, to predict allosteric sites on proteins. Normal mode analysis was used to model the effect of perturbations at potential allosteric sites and these features were combined in a machine learning approach to predict allosteric pockets. Performance is similar and complementary to existing methods and the website has had submissions from around the world.
-- Contributed to the open source [BioJulia](http://biojulia.github.io/Bio.jl/) project - wrote the Bio.Structure module that deals with parsing and manipulating macromolecular structures.
+- Two-term MSci project at the University of Cambridge modelling the chemotactic motions of bacterial populations using a multi-disciplinary computational approach.
 - Eight-week placement at the University of São Paulo (summer 2013) on virtual screening to re-purpose existing drugs.
 - Eight-week placement at Imperial College London (summer 2011) on computational modelling of ionic liquids.
-- Lead web developer in the AllwriteUCAS project that gives applicants to university the skills to write an effective personal statement (website under development).
-- Proficient in Python, Julia and UNIX. Some experience with C++, C#, R, Java, JavaScript, SQL and HTML/CSS.
-- Supervision of eleven-week MSc project and ten-week BSc project at Imperial, involving project design and regular meeting with the students.
+- Contributed to the open source [BioJulia](http://biojulia.github.io/Bio.jl/) project - wrote the Bio.Structure module that deals with parsing and manipulating macromolecular structures.
+- Lead web developer for the AllwriteUCAS project that gives applicants to university the skills to write an effective personal statement (website under development).
+- Proficient in Python, Julia, UNIX and the Django web-development framework. Some experience with C++, C#, R, Java, JavaScript, SQL and HTML/CSS.
+- Experience with machine learning, including support vector machines.
+- Supervision of ten-week MSc project and ten-week BSc project at Imperial, involving project design and regular meetings with the students.
 - Gave a talk on my PhD work at the Bioinformatics London Meetup group (April 2016).
 
 
