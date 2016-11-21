@@ -18,7 +18,7 @@ My interests include protein structures, computational drug discovery, software 
 
 Greener JG and Sternberg MJE. AlloPred: prediction of allosteric pockets on proteins using normal mode perturbation analysis, *BMC Bioinformatics* (2015) 16:335 | [Link](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0771-1) | [Website](http://www.sbg.bio.ic.ac.uk/allopred/home)
 
-Greener JG, Filippis I and Sternberg MJE. Predicting protein dynamics and allostery using multi-protein atomic distance constraints, paper under review
+Greener JG, Filippis I and Sternberg MJE. Predicting protein dynamics and allostery using multi-protein atomic distance constraints, *paper under review*
 
 
 # Awards
@@ -38,7 +38,7 @@ Warren DeLano Structural Bioinformatics and Computational Biophysics Award for b
 - Lead web developer for the AllwriteUCAS project that gives applicants to university the skills to write an effective personal statement.
 - Proficient in Python, Julia, UNIX and the Django web-development framework. Some experience with C++, C#, R, Java, JavaScript, SQL and HTML/CSS. Familiar with unit testing, version control, automated builds and Docker.
 - Supervision of ten-week MSc project and ten-week BSc project at Imperial, involving project design and regular meetings with the students.
-- Demonstrating in undergraduate and graduate computational practicals.
+- Demonstration in undergraduate and graduate computational practicals.
 - Gave a talk on my PhD work at the Bioinformatics London Meetup group (April 2016).
 - Gave a talk on my PhD work at the [3DSIG](http://bcb.med.usherbrooke.ca/3dsig16/index.php) meeting at ISMB (July 2016).
 
