@@ -7,18 +7,18 @@ My interests include protein structures, computational drug discovery, software 
 
 # Education
 
-**2014-2016** | *Imperial College London* | PhD candidate in Structural Bioinformatics | Funded by [BBSRC](http://www.imperial.ac.uk/bbsrc-doctoral-training-partnership)
+**2014-2016** - *Imperial College London* - PhD candidate in Structural Bioinformatics - Funded by [BBSRC](http://www.imperial.ac.uk/bbsrc-doctoral-training-partnership)
 
-**2013-2014** | *Imperial College London* | MSc Bioinformatics and Theoretical Systems Biology | Distinction and highest mark in class
+**2013-2014** - *Imperial College London* - MSc Bioinformatics and Theoretical Systems Biology - Distinction and highest mark in class
 
-**2009-2013** | *Emmanuel College, University of Cambridge* | MSci and BA Hons Natural Sciences (Chemistry) | 2.1 classification in all years
+**2009-2013** - *Emmanuel College, University of Cambridge* - MSci and BA Hons Natural Sciences (Chemistry) - 2.1 classification in all years
 
 
 # Publications
 
-Greener JG, Filippis I and Sternberg MJE. Predicting protein dynamics and allostery using multi-protein atomic distance constraints, *Structure* (2017) 25 | [Link](http://www.cell.com/structure/fulltext/S0969-2126(17)30008-4)
+Greener JG, Filippis I and Sternberg MJE. Predicting protein dynamics and allostery using multi-protein atomic distance constraints, *Structure* (2017) 25 - [Link](http://www.cell.com/structure/fulltext/S0969-2126(17)30008-4)
 
-Greener JG and Sternberg MJE. AlloPred: prediction of allosteric pockets on proteins using normal mode perturbation analysis, *BMC Bioinformatics* (2015) 16:335 | [Link](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0771-1) | [Website](http://www.sbg.bio.ic.ac.uk/allopred/home)
+Greener JG and Sternberg MJE. AlloPred: prediction of allosteric pockets on proteins using normal mode perturbation analysis, *BMC Bioinformatics* (2015) 16:335 - [Link](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0771-1) - [Website](http://www.sbg.bio.ic.ac.uk/allopred/home)
 
 
 # Awards
