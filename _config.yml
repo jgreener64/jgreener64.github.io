@@ -1,7 +1,7 @@
 title: Joe Greener
 description: PhD student | Imperial College London
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
 
 gems:
