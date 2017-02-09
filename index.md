@@ -16,9 +16,9 @@ My interests include protein structures, computational drug discovery, software 
 
 # Publications
 
-Greener JG and Sternberg MJE. AlloPred: prediction of allosteric pockets on proteins using normal mode perturbation analysis, *BMC Bioinformatics* (2015) 16:335 | [Link](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0771-1) | [Website](http://www.sbg.bio.ic.ac.uk/allopred/home)
+Greener JG, Filippis I and Sternberg MJE. Predicting protein dynamics and allostery using multi-protein atomic distance constraints, *Structure* (2017) 25 | [Link](http://www.cell.com/structure/fulltext/S0969-2126(17)30008-4)
 
-Greener JG, Filippis I and Sternberg MJE. Predicting protein dynamics and allostery using multi-protein atomic distance constraints, *paper under review*
+Greener JG and Sternberg MJE. AlloPred: prediction of allosteric pockets on proteins using normal mode perturbation analysis, *BMC Bioinformatics* (2015) 16:335 | [Link](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0771-1) | [Website](http://www.sbg.bio.ic.ac.uk/allopred/home)
 
 
 # Awards
