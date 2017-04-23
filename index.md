@@ -18,7 +18,7 @@ Warren DeLano Structural Bioinformatics and Computational Biophysics Award for b
 
 Prize for highest mark in MSc class (2014).
 
-Runner up prize for best presentation among third-year PhD students at Imperial College London Department of Life Sciences Research Day (2017).
+Runner-up prize for best presentation at Imperial College London Department of Life Sciences Research Day (2017).
 
 
 # Education
@@ -40,6 +40,7 @@ Runner up prize for best presentation among third-year PhD students at Imperial 
 - Member of the open source [BioJulia](http://biojulia.github.io/Bio.jl/) project - wrote the Bio.Structure module that deals with parsing and manipulating macromolecular structures.
 - Lead web developer for the Write on Point project that gives applicants to university the skills to write an effective personal statement.
 - Proficient with Python, Julia, UNIX and the Django web-development framework. Some experience with C++, C#, R, Java, JavaScript, SQL and HTML/CSS. Familiar with unit testing, version control, automated builds and Docker.
+- Experience with machine learning and SVMs.
 - Supervision of ten-week MSc project and ten-week BSc project at Imperial, involving project design and regular meetings with the students.
 - Demonstration in undergraduate and graduate computational practicals.
 - Gave a talk on my PhD work at the Bioinformatics London Meetup group (April 2016).
