@@ -1,11 +1,15 @@
-I am a third year PhD student in the [Structural Bioinformatics Group](http://www.sbg.bio.ic.ac.uk/index.html) at [Imperial College London](https://www.imperial.ac.uk).
+I am a research associate in the [Bioinformatics Group](http://bioinf.cs.ucl.ac.uk/introduction) at [UCL](https://www.ucl.ac.uk). The group is based at the [Francis Crick Institute](https://www.crick.ac.uk). Previously I was a PhD student in the [Structural Bioinformatics Group](http://www.sbg.bio.ic.ac.uk/index.html) at [Imperial College London](https://www.imperial.ac.uk).
 
-My interests include protein structures, computational drug discovery, software development and open science. Currently my research involves developing computational methods to predict modulating sites on proteins, and testing them experimentally.
+My interests include protein structures, computational drug discovery, software development and open science. Currently my research involves developing computational methods to predict and design protein structures.
 
 ![Modulation of adenylate cyclase](images/protein.png)
 
 
 # Publications
+
+[Google Scholar page](https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=IG6H3tIAAAAJ)
+
+Greener JG and Sternberg MJE. Structure-based prediction of protein allostery, *Current Opinion in Structural Biology* (2018) 50, 1-8 - [Link](http://www.sciencedirect.com/science/article/pii/S0959440X17301252)
 
 Greener JG, Filippis I and Sternberg MJE. Predicting protein dynamics and allostery using multi-protein atomic distance constraints, *Structure* (2017) 25, 546-558 - [Link](http://www.cell.com/structure/fulltext/S0969-2126(17)30008-4)
 
@@ -23,7 +27,7 @@ Runner-up prize for best presentation at Imperial College London Department of L
 
 # Education
 
-**2014-2017** - *Imperial College London* - PhD candidate in Structural Bioinformatics - Funded by [BBSRC](http://www.imperial.ac.uk/bbsrc-doctoral-training-partnership)
+**2014-2017** - *Imperial College London* - PhD in Structural Bioinformatics - Funded by [BBSRC](http://www.imperial.ac.uk/bbsrc-doctoral-training-partnership)
 
 **2013-2014** - *Imperial College London* - MSc Bioinformatics and Theoretical Systems Biology - Funded by [BBSRC](http://www.imperial.ac.uk/bbsrc-doctoral-training-partnership) - Distinction
 
@@ -41,7 +45,7 @@ Runner-up prize for best presentation at Imperial College London Department of L
 - Lead web developer for the Write on Point project that gives applicants to university the skills to write an effective personal statement.
 - Proficient with Python, Julia, UNIX and the Django web-development framework. Some experience with C++, C#, R, Java, JavaScript, SQL and HTML/CSS. Familiar with unit testing, version control, automated builds and Docker.
 - Experience with machine learning and SVMs.
-- Supervision of ten-week MSc project and ten-week BSc project at Imperial, involving project design and regular meetings with the students.
+- Supervision of two ten-week MSc projects and a ten-week BSc project at Imperial, involving project design and regular meetings with the students.
 - Demonstration in undergraduate and graduate computational practicals.
 - Gave a talk on my PhD work at the Bioinformatics London Meetup group (April 2016).
 - Gave a talk on my PhD work at the [3DSIG](http://bcb.med.usherbrooke.ca/3dsig16/index.php) meeting at ISMB (July 2016).
@@ -49,4 +53,4 @@ Runner-up prize for best presentation at Imperial College London Department of L
 
 # Contact
 
-Email: joe.greener13 at imperial.ac.uk
+Email: j.greener at ucl.ac.uk
