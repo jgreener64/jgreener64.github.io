@@ -9,6 +9,8 @@ My interests include protein structures, computational drug discovery, software 
 
 [Google Scholar page](https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=IG6H3tIAAAAJ)
 
+Craven GB, Affron DP, Allen CE, Matthies S, Greener JG, Morgan RML, Tate EW, Armstrong A, Mann DJ. High-Throughput Kinetic Analysis for Target-Directed Covalent Ligand Discovery, *Angewandte Chemie International Edition* (2018) - [Link](http://onlinelibrary.wiley.com/doi/10.1002/anie.201711825/full)
+
 Greener JG and Sternberg MJE. Structure-based prediction of protein allostery, *Current Opinion in Structural Biology* (2018) 50, 1-8 - [Link](http://www.sciencedirect.com/science/article/pii/S0959440X17301252)
 
 Greener JG, Filippis I and Sternberg MJE. Predicting protein dynamics and allostery using multi-protein atomic distance constraints, *Structure* (2017) 25, 546-558 - [Link](http://www.cell.com/structure/fulltext/S0969-2126(17)30008-4)
