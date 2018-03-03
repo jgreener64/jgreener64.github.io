@@ -40,10 +40,10 @@ Runner-up prize for best presentation at Imperial College London Department of L
 
 - Developed the ExProSE computational procedure to generate ensembles of protein structures from multiple input structures. This method provides good coverage of conformational space and can be used, for example, to predict allosteric sites on proteins and explore protein dynamics.
 - Developed a computational procedure, AlloPred, to predict allosteric sites on proteins. Normal mode analysis was used to model the effect of perturbations at potential allosteric sites and these features were combined in a machine learning approach to predict allosteric pockets. Performance is similar and complementary to existing methods and the [website](http://www.sbg.bio.ic.ac.uk/allopred/home) has had submissions from around the world.
-- Three-month [PIPS](http://www.bbsrc.ac.uk/skills/investing-doctoral-training/pips/) placement at [benevolent.ai](http://benevolent.ai/), a growing company that uses machine learning approaches to predict drug candidates. My project involved developing an in-house tool as part of the biomedical team for use by drug discoverers.
+- Three-month [PIPS](http://www.bbsrc.ac.uk/skills/investing-doctoral-training/pips) placement at [benevolent.ai](http://benevolent.ai), a growing company that uses machine learning approaches to predict drug candidates. My project involved developing an in-house tool as part of the biomedical team for use by drug discoverers.
 - Eight-week placement at the University of São Paulo (summer 2013) on virtual screening to re-purpose existing drugs.
 - Eight-week placement at Imperial College London (summer 2011) on computational modelling of ionic liquids.
-- Member of the open source [BioJulia](http://biojulia.github.io/Bio.jl/) project - wrote the Bio.Structure module that deals with parsing and manipulating macromolecular structures.
+- Member of the open source [BioJulia](http://biojulia.github.io/Bio.jl) project - wrote the BioStructures.jl package that deals with parsing and manipulating macromolecular structures. Have also made contributions to the [Biopython](http://biopython.org) project.
 - Lead web developer for the Write on Point project that gives applicants to university the skills to write an effective personal statement.
 - Proficient with Python, Julia, UNIX and the Django web-development framework. Some experience with C++, C#, R, Java, JavaScript, SQL and HTML/CSS. Familiar with unit testing, version control, automated builds and Docker.
 - Experience with machine learning and SVMs.
