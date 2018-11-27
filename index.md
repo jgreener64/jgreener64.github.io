@@ -1,6 +1,6 @@
 I am a research associate in the [Bioinformatics Group](http://bioinf.cs.ucl.ac.uk/introduction) at [UCL](https://www.ucl.ac.uk). The group is based at the [Francis Crick Institute](https://www.crick.ac.uk). Previously I was a PhD student in the [Structural Bioinformatics Group](http://www.sbg.bio.ic.ac.uk/index.html) at [Imperial College London](https://www.imperial.ac.uk).
 
-My interests include protein structures, software development and open science. Currently my research involves developing computational methods to predict and design protein structures.
+My interests include protein structures, software development and open science. Currently my research involves developing computational methods to predict and design protein structures, with a focus on deep learning.
 
 ![Modulation of adenylate cyclase](images/protein.png)
 
