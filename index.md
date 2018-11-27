@@ -1,6 +1,6 @@
 I am a research associate in the [Bioinformatics Group](http://bioinf.cs.ucl.ac.uk/introduction) at [UCL](https://www.ucl.ac.uk). The group is based at the [Francis Crick Institute](https://www.crick.ac.uk). Previously I was a PhD student in the [Structural Bioinformatics Group](http://www.sbg.bio.ic.ac.uk/index.html) at [Imperial College London](https://www.imperial.ac.uk).
 
-My interests include protein structures, computational drug discovery, software development and open science. Currently my research involves developing computational methods to predict and design protein structures.
+My interests include protein structures, software development and open science. Currently my research involves developing computational methods to predict and design protein structures.
 
 ![Modulation of adenylate cyclase](images/protein.png)
 
@@ -9,7 +9,9 @@ My interests include protein structures, computational drug discovery, software 
 
 [Google Scholar page](https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=IG6H3tIAAAAJ)
 
-Craven GB, Affron DP, Allen CE, Matthies S, Greener JG, Morgan RML, Tate EW, Armstrong A, Mann DJ. High-Throughput Kinetic Analysis for Target-Directed Covalent Ligand Discovery, *Angewandte Chemie International Edition* (2018) - [Link](http://onlinelibrary.wiley.com/doi/10.1002/anie.201711825/full)
+Greener JG, Moffat L and Jones DT, Design of metalloproteins and novel protein folds using variational autoencoders, *Scientific Reports* (2018) 8:16189 - [Link](https://www.nature.com/articles/s41598-018-34533-1)
+
+Craven GB, Affron DP, Allen CE, Matthies S, Greener JG, Morgan RML, Tate EW, Armstrong A and Mann DJ. High-Throughput Kinetic Analysis for Target-Directed Covalent Ligand Discovery, *Angewandte Chemie International Edition* (2018) 57 - [Link](http://onlinelibrary.wiley.com/doi/10.1002/anie.201711825/full)
 
 Greener JG and Sternberg MJE. Structure-based prediction of protein allostery, *Current Opinion in Structural Biology* (2018) 50, 1-8 - [Link](http://www.sciencedirect.com/science/article/pii/S0959440X17301252)
 
@@ -51,6 +53,7 @@ Runner-up prize for best presentation at Imperial College London Department of L
 - Demonstration in undergraduate and graduate computational practicals.
 - Gave a talk on my PhD work at the Bioinformatics London Meetup group (April 2016).
 - Gave a talk on my PhD work at the [3DSIG](http://bcb.med.usherbrooke.ca/3dsig16/index.php) meeting at ISMB (July 2016).
+- Peer reviewed 3 scientific papers, 1 funding proposal and was on the review committee for JuliaCon 2018.
 
 
 # Contact
