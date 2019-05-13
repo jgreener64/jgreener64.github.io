@@ -9,19 +9,19 @@ My interests include protein structures, software development and open science. 
 
 [Google Scholar page](https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=IG6H3tIAAAAJ)
 
-Greener JG*, Kandathil SM* and Jones DT, Extending genome-scale de novo protein modelling coverage using iterative deep learning-based prediction of structural constraints, *arXiv* (2019) - [Link](https://arxiv.org/abs/1811.12355)
+Greener JG\*, Kandathil SM\* and Jones DT, Extending genome-scale de novo protein modelling coverage using iterative deep learning-based prediction of structural constraints, *arXiv* (2019) - [link](https://arxiv.org/abs/1811.12355) - [code](https://github.com/psipred/DMPfold)
 
-Kandathil SM, Greener JG and Jones DT, Prediction of inter-residue contacts with DeepMetaPSICOV in CASP13, *bioRxiv* (2019) - [Link](https://www.biorxiv.org/content/10.1101/586800v2)
+Kandathil SM, Greener JG and Jones DT, Prediction of inter-residue contacts with DeepMetaPSICOV in CASP13, *bioRxiv* (2019) - [link](https://www.biorxiv.org/content/10.1101/586800v2) - [code](https://github.com/psipred/DeepMetaPSICOV)
 
-Greener JG*, Moffat L* and Jones DT, Design of metalloproteins and novel protein folds using variational autoencoders, *Scientific Reports* (2018) 8:16189 - [Link](https://www.nature.com/articles/s41598-018-34533-1)
+Greener JG\*, Moffat L\* and Jones DT, Design of metalloproteins and novel protein folds using variational autoencoders, *Scientific Reports* (2018) 8:16189 - [link](https://www.nature.com/articles/s41598-018-34533-1) - [code](https://github.com/psipred/protein-vae)
 
-Craven GB, Affron DP, Allen CE, Matthies S, Greener JG, Morgan RML, Tate EW, Armstrong A and Mann DJ. High-Throughput Kinetic Analysis for Target-Directed Covalent Ligand Discovery, *Angewandte Chemie International Edition* (2018) 57 - [Link](http://onlinelibrary.wiley.com/doi/10.1002/anie.201711825/full)
+Craven GB, Affron DP, Allen CE, Matthies S, Greener JG, Morgan RML, Tate EW, Armstrong A and Mann DJ. High-Throughput Kinetic Analysis for Target-Directed Covalent Ligand Discovery, *Angewandte Chemie International Edition* (2018) 57 - [link](http://onlinelibrary.wiley.com/doi/10.1002/anie.201711825/full)
 
-Greener JG and Sternberg MJE. Structure-based prediction of protein allostery, *Current Opinion in Structural Biology* (2018) 50, 1-8 - [Link](http://www.sciencedirect.com/science/article/pii/S0959440X17301252)
+Greener JG and Sternberg MJE. Structure-based prediction of protein allostery, *Current Opinion in Structural Biology* (2018) 50, 1-8 - [link](http://www.sciencedirect.com/science/article/pii/S0959440X17301252)
 
-Greener JG, Filippis I and Sternberg MJE. Predicting protein dynamics and allostery using multi-protein atomic distance constraints, *Structure* (2017) 25, 546-558 - [Link](http://www.cell.com/structure/fulltext/S0969-2126(17)30008-4)
+Greener JG, Filippis I and Sternberg MJE. Predicting protein dynamics and allostery using multi-protein atomic distance constraints, *Structure* (2017) 25, 546-558 - [link](http://www.cell.com/structure/fulltext/S0969-2126(17)30008-4) - [code](https://github.com/jgreener64/ProteinEnsembles.jl)
 
-Greener JG and Sternberg MJE. AlloPred: prediction of allosteric pockets on proteins using normal mode perturbation analysis, *BMC Bioinformatics* (2015) 16:335 - [Link](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0771-1) - [Website](http://www.sbg.bio.ic.ac.uk/allopred/home)
+Greener JG and Sternberg MJE. AlloPred: prediction of allosteric pockets on proteins using normal mode perturbation analysis, *BMC Bioinformatics* (2015) 16:335 - [link](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0771-1) - [website](http://www.sbg.bio.ic.ac.uk/allopred/home) - [code](https://github.com/jgreener64/allopred)
 
 
 # Awards
