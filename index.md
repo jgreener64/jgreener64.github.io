@@ -9,7 +9,11 @@ My interests include protein structures, software development and open science. 
 
 [Google Scholar page](https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=IG6H3tIAAAAJ)
 
-Greener JG, Moffat L and Jones DT, Design of metalloproteins and novel protein folds using variational autoencoders, *Scientific Reports* (2018) 8:16189 - [Link](https://www.nature.com/articles/s41598-018-34533-1)
+Greener JG*, Kandathil SM* and Jones DT, Extending genome-scale de novo protein modelling coverage using iterative deep learning-based prediction of structural constraints, *arXiv* (2019) - [Link](https://arxiv.org/abs/1811.12355)
+
+Kandathil SM, Greener JG and Jones DT, Prediction of inter-residue contacts with DeepMetaPSICOV in CASP13, *bioRxiv* (2019) - [Link](https://www.biorxiv.org/content/10.1101/586800v2)
+
+Greener JG*, Moffat L* and Jones DT, Design of metalloproteins and novel protein folds using variational autoencoders, *Scientific Reports* (2018) 8:16189 - [Link](https://www.nature.com/articles/s41598-018-34533-1)
 
 Craven GB, Affron DP, Allen CE, Matthies S, Greener JG, Morgan RML, Tate EW, Armstrong A and Mann DJ. High-Throughput Kinetic Analysis for Target-Directed Covalent Ligand Discovery, *Angewandte Chemie International Edition* (2018) 57 - [Link](http://onlinelibrary.wiley.com/doi/10.1002/anie.201711825/full)
 
@@ -53,7 +57,7 @@ Runner-up prize for best presentation at Imperial College London Department of L
 - Demonstration in undergraduate and graduate computational practicals.
 - Gave a talk on my PhD work at the Bioinformatics London Meetup group (April 2016).
 - Gave a talk on my PhD work at the [3DSIG](http://bcb.med.usherbrooke.ca/3dsig16/index.php) meeting at ISMB (July 2016).
-- Peer reviewed 3 scientific papers, 1 funding proposal and was on the review committee for JuliaCon 2018.
+- Peer reviewed 4 scientific papers, 1 funding proposal and was on the review committee for JuliaCon 2018.
 
 
 # Contact
