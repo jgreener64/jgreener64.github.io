@@ -49,10 +49,10 @@ Runner-up prize for best presentation at Imperial College London Department of L
 - Three-month [PIPS](http://www.bbsrc.ac.uk/skills/investing-doctoral-training/pips) placement at [benevolent.ai](http://benevolent.ai), a growing company that uses machine learning approaches to predict drug candidates. My project involved developing an in-house tool as part of the biomedical team for use by drug discoverers.
 - Eight-week placement at the University of São Paulo (summer 2013) on virtual screening to re-purpose existing drugs.
 - Eight-week placement at Imperial College London (summer 2011) on computational modelling of ionic liquids.
-- Member of the open source [BioJulia](http://biojulia.github.io/Bio.jl) project - wrote the BioStructures.jl package that deals with parsing and manipulating macromolecular structures. Have also made contributions to the [Biopython](http://biopython.org) project.
+- Member of the open source [BioJulia](https://biojulia.net) project - wrote the BioStructures.jl package that deals with parsing and manipulating macromolecular structures. Have also made contributions to the [Biopython](http://biopython.org) project.
 - Lead web developer for the Write on Point project that gives applicants to university the skills to write an effective personal statement.
-- Proficient with Python, Julia, UNIX and the Django web-development framework. Some experience with C++, C#, R, Java, JavaScript, SQL and HTML/CSS. Familiar with unit testing, version control, automated builds and Docker.
-- Experience with machine learning and SVMs.
+- Proficient with Python, Julia, UNIX and the Django web-development framework. Some experience with PyTorch, C++, C#, R, Java, JavaScript, SQL and HTML/CSS. Familiar with unit testing, version control, automated builds and Docker.
+- Experience with deep learning (CNNs, autoencoders) and other machine learning approaches (SVMs).
 - Supervision of two ten-week MSc projects and a ten-week BSc project at Imperial, involving project design and regular meetings with the students.
 - Demonstration in undergraduate and graduate computational practicals.
 - Gave a talk on my PhD work at the Bioinformatics London Meetup group (April 2016).
