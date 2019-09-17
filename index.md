@@ -1,6 +1,6 @@
 I am a research associate (postdoc) in the [Bioinformatics Group](http://bioinf.cs.ucl.ac.uk/introduction) at [UCL](https://www.ucl.ac.uk). The group is based at the [Francis Crick Institute](https://www.crick.ac.uk). Previously I was a PhD student in the [Structural Bioinformatics Group](http://www.sbg.bio.ic.ac.uk/index.html) at [Imperial College London](https://www.imperial.ac.uk).
 
-My interests include protein structures, software development and open science. Currently my research involves developing computational methods to predict and design protein structures, with a focus on deep learning.
+My interests include protein structures, software development and open science. Currently my research involves developing computational methods to predict and design protein structures, with a focus on deep learning. I am funded on the [ProCovar](http://bioinf.cs.ucl.ac.uk/procovar) grant. See [this talk](https://www.youtube.com/watch?v=apv5YPM0HqY&list=PLmX8XnLr6zeHO2l7Gki56qjGxhhHYljin&index=17) for an overview of our work.
 
 ![Modulation of adenylate cyclase](images/protein.png)
 
@@ -9,7 +9,7 @@ My interests include protein structures, software development and open science. 
 
 [Google Scholar page](https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=IG6H3tIAAAAJ)
 
-__Greener JG\*__, Kandathil SM\* and Jones DT, Extending genome-scale de novo protein modelling coverage using iterative deep learning-based prediction of structural constraints, *arXiv* (2019) - [link](https://arxiv.org/abs/1811.12355) - [code](https://github.com/psipred/DMPfold)
+__Greener JG\*__, Kandathil SM\* and Jones DT, Deep learning extends de novo protein modelling coverage of genomes using iteratively predicted structural constraints, *Nature Communications* (2019) - [link](https://www.nature.com/articles/s41467-019-11994-0) - [code](https://github.com/psipred/DMPfold)
 
 Kandathil SM, __Greener JG__ and Jones DT, Prediction of inter-residue contacts with DeepMetaPSICOV in CASP13, *bioRxiv* (2019) - [link](https://www.biorxiv.org/content/10.1101/586800v2) - [code](https://github.com/psipred/DeepMetaPSICOV)
 
@@ -28,9 +28,24 @@ __Greener JG__ and Sternberg MJE. AlloPred: prediction of allosteric pockets on 
 
 Warren DeLano Structural Bioinformatics and Computational Biophysics Award for best presentation at [3DSIG](http://bcb.med.usherbrooke.ca/3dsig16/index.php) 2016.
 
+Awarded ISMB/ECCB Travel Fellowship to attend ISMB 2019 by 3DSIG and ISCB.
+
 Prize for highest mark in MSc class (2014).
 
 Runner-up prize for best presentation at Imperial College London Department of Life Sciences Research Day (2017).
+
+
+# Talks
+
+3DSIG meeting at ISMB (July 2019) - [video](https://www.youtube.com/watch?v=apv5YPM0HqY&list=PLmX8XnLr6zeHO2l7Gki56qjGxhhHYljin&index=17).
+
+London Julia [Meetup group](https://www.meetup.com/London-Julia-User-Group/events/262441283) (June 2019).
+
+Friday wrap talk at Institute of Structural and Molecular Biology (May 2019).
+
+3DSIG meeting at ISMB (July 2016).
+
+Bioinformatics London [Meetup group](https://www.meetup.com/Bioinformatics-London/events/230436340) (April 2016).
 
 
 # Education
@@ -44,20 +59,16 @@ Runner-up prize for best presentation at Imperial College London Department of L
 
 # Experience and skills
 
-- Developed the ExProSE computational procedure to generate ensembles of protein structures from multiple input structures. This method provides good coverage of conformational space and can be used, for example, to predict allosteric sites on proteins and explore protein dynamics.
-- Developed a computational procedure, AlloPred, to predict allosteric sites on proteins. Normal mode analysis was used to model the effect of perturbations at potential allosteric sites and these features were combined in a machine learning approach to predict allosteric pockets. Performance is similar and complementary to existing methods and the [website](http://www.sbg.bio.ic.ac.uk/allopred/home) has had submissions from around the world.
 - Three-month [PIPS](http://www.bbsrc.ac.uk/skills/investing-doctoral-training/pips) placement at [benevolent.ai](http://benevolent.ai), a growing company that uses machine learning approaches to predict drug candidates. My project involved developing an in-house tool as part of the biomedical team for use by drug discoverers.
 - Eight-week placement at the University of São Paulo (summer 2013) on virtual screening to re-purpose existing drugs.
 - Eight-week placement at Imperial College London (summer 2011) on computational modelling of ionic liquids.
-- Member of the open source [BioJulia](https://biojulia.net) project - wrote the BioStructures.jl package that deals with parsing and manipulating macromolecular structures. Have also made contributions to the [Biopython](http://biopython.org) project.
+- Member of the open source BioJulia project - wrote the [BioStructures.jl](https://github.com/BioJulia/BioStructures.jl) package that deals with parsing and manipulating macromolecular structures. Have also made contributions to the [Biopython](http://biopython.org) project.
 - Lead web developer for the Write on Point project that gives applicants to university the skills to write an effective personal statement.
 - Proficient with Python, Julia, UNIX and the Django web-development framework. Some experience with PyTorch, C++, C#, R, Java, JavaScript, SQL and HTML/CSS. Familiar with unit testing, version control, automated builds and Docker.
 - Experience with deep learning (CNNs, autoencoders) and other machine learning approaches (SVMs).
 - Supervision of two ten-week MSc projects and a ten-week BSc project at Imperial, involving project design and regular meetings with the students.
-- Demonstration in undergraduate and graduate computational practicals.
-- Gave a talk on my PhD work at the Bioinformatics London Meetup group (April 2016).
-- Gave a talk on my PhD work at the [3DSIG](http://bcb.med.usherbrooke.ca/3dsig16/index.php) meeting at ISMB (July 2016).
-- Peer reviewed 4 scientific papers, 1 funding proposal and was on the review committee for JuliaCon 2018.
+- Demonstration in undergraduate and graduate computational practicals at Imperial and UCL.
+- Peer reviewed 7 scientific papers, 1 funding proposal and was on the review committee for JuliaCon 2018.
 
 
 # Contact
