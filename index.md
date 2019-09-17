@@ -62,7 +62,7 @@ Bioinformatics London [Meetup group](https://www.meetup.com/Bioinformatics-Londo
 - Three-month [PIPS](http://www.bbsrc.ac.uk/skills/investing-doctoral-training/pips) placement at [benevolent.ai](http://benevolent.ai), a growing company that uses machine learning approaches to predict drug candidates. My project involved developing an in-house tool as part of the biomedical team for use by drug discoverers.
 - Eight-week placement at the University of São Paulo (summer 2013) on virtual screening to re-purpose existing drugs.
 - Eight-week placement at Imperial College London (summer 2011) on computational modelling of ionic liquids.
-- Member of the open source BioJulia project - wrote the [BioStructures.jl](https://github.com/BioJulia/BioStructures.jl) package that deals with parsing and manipulating macromolecular structures. Have also made contributions to the [Biopython](http://biopython.org) project.
+- Member of the open source BioJulia project - wrote the [BioStructures.jl](https://github.com/BioJulia/BioStructures.jl) package that deals with parsing and manipulating macromolecular structures. Have also made contributions to the [Biopython](http://biopython.org) project and written some [pdb-benchmarks](https://github.com/jgreener64/pdb-benchmarks).
 - Lead web developer for the Write on Point project that gives applicants to university the skills to write an effective personal statement.
 - Proficient with Python, Julia, UNIX and the Django web-development framework. Some experience with PyTorch, C++, C#, R, Java, JavaScript, SQL and HTML/CSS. Familiar with unit testing, version control, automated builds and Docker.
 - Experience with deep learning (CNNs, autoencoders) and other machine learning approaches (SVMs).
