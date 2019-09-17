@@ -26,7 +26,7 @@ __Greener JG__ and Sternberg MJE. AlloPred: prediction of allosteric pockets on 
 
 # Awards
 
-Warren DeLano Structural Bioinformatics and Computational Biophysics Award for best presentation at [3DSIG](http://bcb.med.usherbrooke.ca/3dsig16/index.php) 2016.
+Warren DeLano Structural Bioinformatics and Computational Biophysics Award for best presentation at 3DSIG 2016.
 
 Awarded ISMB/ECCB Travel Fellowship to attend ISMB 2019 by 3DSIG and ISCB.
 
@@ -41,7 +41,7 @@ Runner-up prize for best presentation at Imperial College London Department of L
 
 London Julia [Meetup group](https://www.meetup.com/London-Julia-User-Group/events/262441283) (June 2019).
 
-Friday wrap talk at Institute of Structural and Molecular Biology (May 2019).
+Friday Wrap talk at Institute of Structural and Molecular Biology (May 2019).
 
 3DSIG meeting at ISMB (July 2016).
 
