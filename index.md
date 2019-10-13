@@ -1,6 +1,6 @@
 I am a research associate (postdoc) in the [Bioinformatics Group](http://bioinf.cs.ucl.ac.uk/introduction) at [UCL](https://www.ucl.ac.uk). The group is based at the [Francis Crick Institute](https://www.crick.ac.uk). Previously I was a PhD student in the [Structural Bioinformatics Group](http://www.sbg.bio.ic.ac.uk/index.html) at [Imperial College London](https://www.imperial.ac.uk).
 
-My interests include protein structures, molecular simulation, software development and open science. Currently my research involves developing computational methods to predict and design protein structures, with a focus on deep learning. I am funded on the [ProCovar](http://bioinf.cs.ucl.ac.uk/procovar) grant by the ERC. See [this talk](https://www.youtube.com/watch?v=apv5YPM0HqY&list=PLmX8XnLr6zeHO2l7Gki56qjGxhhHYljin&index=17) for an overview of our work.
+My interests include protein structures, molecular simulation, software development and open science. Currently my research involves developing computational methods to predict and design protein structures, with a focus on deep learning. I am funded on the [ProCovar](http://bioinf.cs.ucl.ac.uk/procovar) grant by the ERC. See [this talk](https://www.youtube.com/watch?v=apv5YPM0HqY) for an overview of our work.
 
 ![Modulation of adenylate cyclase](images/protein.png)
 
