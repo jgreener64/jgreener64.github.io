@@ -1,6 +1,6 @@
 I am a research associate (postdoc) in the [Bioinformatics Group](http://bioinf.cs.ucl.ac.uk/introduction) at [UCL](https://www.ucl.ac.uk). The group is based at the [Francis Crick Institute](https://www.crick.ac.uk). Previously I was a PhD student in the [Structural Bioinformatics Group](http://www.sbg.bio.ic.ac.uk/index.html) at [Imperial College London](https://www.imperial.ac.uk).
 
-My interests include protein structures, software development and open science. Currently my research involves developing computational methods to predict and design protein structures, with a focus on deep learning. I am funded on the [ProCovar](http://bioinf.cs.ucl.ac.uk/procovar) grant. See [this talk](https://www.youtube.com/watch?v=apv5YPM0HqY&list=PLmX8XnLr6zeHO2l7Gki56qjGxhhHYljin&index=17) for an overview of our work.
+My interests include protein structures, molecular simulation, software development and open science. Currently my research involves developing computational methods to predict and design protein structures, with a focus on deep learning. I am funded on the [ProCovar](http://bioinf.cs.ucl.ac.uk/procovar) grant. See [this talk](https://www.youtube.com/watch?v=apv5YPM0HqY&list=PLmX8XnLr6zeHO2l7Gki56qjGxhhHYljin&index=17) for an overview of our work.
 
 ![Modulation of adenylate cyclase](images/protein.png)
 
@@ -11,7 +11,9 @@ My interests include protein structures, software development and open science. 
 
 __Greener JG\*__, Kandathil SM\* and Jones DT, Deep learning extends de novo protein modelling coverage of genomes using iteratively predicted structural constraints, *Nature Communications* (2019) - [link](https://www.nature.com/articles/s41467-019-11994-0) - [code](https://github.com/psipred/DMPfold)
 
-Kandathil SM, __Greener JG__ and Jones DT, Prediction of inter-residue contacts with DeepMetaPSICOV in CASP13, *bioRxiv* (2019) - [link](https://www.biorxiv.org/content/10.1101/586800v2) - [code](https://github.com/psipred/DeepMetaPSICOV)
+Kandathil SM, __Greener JG__ and Jones DT, Recent Developments in Deep Learning Applied to Protein Structure Prediction, *Proteins* (2019) - [link](https://onlinelibrary.wiley.com/doi/10.1002/prot.25824)
+
+Kandathil SM, __Greener JG__ and Jones DT, Prediction of inter-residue contacts with DeepMetaPSICOV in CASP13, *Proteins* (2019) - [link](https://onlinelibrary.wiley.com/doi/full/10.1002/prot.25779) - [code](https://github.com/psipred/DeepMetaPSICOV)
 
 __Greener JG\*__, Moffat L\* and Jones DT, Design of metalloproteins and novel protein folds using variational autoencoders, *Scientific Reports* (2018) 8:16189 - [link](https://www.nature.com/articles/s41598-018-34533-1) - [code](https://github.com/psipred/protein-vae)
 
