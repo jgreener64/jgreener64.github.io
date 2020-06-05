@@ -9,7 +9,7 @@ My interests include protein structures, molecular simulation, software developm
 
 [Google Scholar page](https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=IG6H3tIAAAAJ)
 
-__Greener JG__, Selvaraj J and Ward BJ. BioStructures.jl: read, write and manipulate macromolecular structures in Julia, *Bioinformatics* (2020) - [link](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Facademic.oup.com%2Fbioinformatics%2Fadvance-article%2Fdoi%2F10.1093%2Fbioinformatics%2Fbtaa502%2F5837108%3FguestAccessKey%3Daec90643-1d43-4521-9883-4a4a669187da&data=02%7C01%7C%7C419c87964ccd40fc09d508d7f8f51c96%7C1faf88fea9984c5b93c9210a11d9a5c2%7C0%7C0%7C637251603942765266&sdata=yt1iFWSHrSx6LB977d8ffThWtsy4sZFRaL3qpYLCgdM%3D&reserved=0) - [code](https://github.com/BioJulia/BioStructures.jl)
+__Greener JG__, Selvaraj J and Ward BJ. BioStructures.jl: read, write and manipulate macromolecular structures in Julia, *Bioinformatics* (2020) - [link](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa502/5837108?guestAccessKey=aec90643-1d43-4521-9883-4a4a669187da) - [code](https://github.com/BioJulia/BioStructures.jl)
 
 __Greener JG\*__, Kandathil SM\* and Jones DT. Deep learning extends de novo protein modelling coverage of genomes using iteratively predicted structural constraints, *Nature Communications* (2019) - [link](https://www.nature.com/articles/s41467-019-11994-0) - [code](https://github.com/psipred/DMPfold)
 
