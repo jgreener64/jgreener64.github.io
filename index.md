@@ -78,7 +78,7 @@ Bioinformatics London [Meetup group](https://www.meetup.com/Bioinformatics-Londo
 - Experience with deep learning (CNNs, autoencoders) and other machine learning approaches (SVMs).
 - Supervision of two ten-week MSc projects and a ten-week BSc project at Imperial, involving project design and regular meetings with the students.
 - Demonstration in undergraduate and graduate computational practicals at Imperial and UCL.
-- Peer reviewed 11 scientific papers, 1 funding proposal and was on the review committee for JuliaCon 2018.
+- Peer reviewed 13 scientific papers, 1 funding proposal and was on the review committee for JuliaCon 2018.
 
 
 # Contact
