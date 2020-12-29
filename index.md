@@ -15,7 +15,7 @@ __Greener JG\*__, Desai N\*, Kandathil SM and Jones DT. Near-complete protein st
 
 __Greener JG__, Selvaraj J and Ward BJ. BioStructures.jl: read, write and manipulate macromolecular structures in Julia, *Bioinformatics* (2020) - [link](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa502/5837108?guestAccessKey=aec90643-1d43-4521-9883-4a4a669187da) - [code](https://github.com/BioJulia/BioStructures.jl)
 
-__Greener JG\*__, Kandathil SM\* and Jones DT. Deep learning extends de novo protein modelling coverage of genomes using iteratively predicted structural constraints, *Nature Communications* (2019) - [link](https://www.nature.com/articles/s41467-019-11994-0) - [code](https://github.com/psipred/DMPfold)
+__Greener JG\*__, Kandathil SM\* and Jones DT. Deep learning extends de novo protein modelling coverage of genomes using iteratively predicted structural constraints, *Nature Communications* (2019) - [link](https://www.nature.com/articles/s41467-019-11994-0) - [website](http://bioinf.cs.ucl.ac.uk/psipred) - [code](https://github.com/psipred/DMPfold)
 
 Kandathil SM, __Greener JG__ and Jones DT. Recent Developments in Deep Learning Applied to Protein Structure Prediction, *Proteins* (2019) - [link](https://onlinelibrary.wiley.com/doi/10.1002/prot.25824)
 
