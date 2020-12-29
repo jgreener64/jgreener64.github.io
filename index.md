@@ -45,19 +45,19 @@ Runner-up prize for best presentation at Imperial College London Department of L
 
 # Talks
 
-Imperial College Computational Biology Society (November 2020) - [slides](https://docs.google.com/presentation/d/1zkJ8UwSwu2nsjIwHvIiTXL2z4fyxs_kJDjxjwoB8vBo/edit?usp=sharing)
+Imperial College Computational Biology Society (Nov 2020) - [slides](https://docs.google.com/presentation/d/1zkJ8UwSwu2nsjIwHvIiTXL2z4fyxs_kJDjxjwoB8vBo/edit?usp=sharing)
 
-KQ Codes Technical Social (January 2020) - [slides](https://docs.google.com/presentation/d/1wWdqTR1Ifls-psjcj-Euv6LY7Z5LWBei7VsiqPlB46E/edit?usp=sharing).
+KQ Codes Technical Social (Jan 2020) - [slides](https://docs.google.com/presentation/d/1wWdqTR1Ifls-psjcj-Euv6LY7Z5LWBei7VsiqPlB46E/edit?usp=sharing).
 
-3DSIG meeting at ISMB (July 2019) - [video](https://www.youtube.com/watch?v=apv5YPM0HqY&list=PLmX8XnLr6zeHO2l7Gki56qjGxhhHYljin&index=17) - [slides](https://docs.google.com/presentation/d/1akuaq1QHbCVdxshmrtbJm6xssRZ3PwOYcR0PviU6YWg/edit?usp=sharing).
+3DSIG meeting at ISMB (Jul 2019) - [video](https://www.youtube.com/watch?v=apv5YPM0HqY&list=PLmX8XnLr6zeHO2l7Gki56qjGxhhHYljin&index=17) - [slides](https://docs.google.com/presentation/d/1akuaq1QHbCVdxshmrtbJm6xssRZ3PwOYcR0PviU6YWg/edit?usp=sharing).
 
-London Julia [Meetup group](https://www.meetup.com/London-Julia-User-Group/events/262441283) (June 2019) - [slides](https://docs.google.com/presentation/d/13KxvnwR-XFMFyUSth1hsXSoW0Zx5XLzds6fci7RUUDQ/edit?usp=sharing).
+London Julia [Meetup group](https://www.meetup.com/London-Julia-User-Group/events/262441283) (Jun 2019) - [slides](https://docs.google.com/presentation/d/13KxvnwR-XFMFyUSth1hsXSoW0Zx5XLzds6fci7RUUDQ/edit?usp=sharing).
 
 Friday Wrap talk at Institute of Structural and Molecular Biology (May 2019) - [slides](https://docs.google.com/presentation/d/1PAagp9hPXTT3ks1iOvFKOyw0TOD_ZyF9dSmvoVVudVg/edit?usp=sharing).
 
-3DSIG meeting at ISMB (July 2016).
+3DSIG meeting at ISMB (Jul 2016).
 
-Bioinformatics London [Meetup group](https://www.meetup.com/Bioinformatics-London/events/230436340) (April 2016).
+Bioinformatics London [Meetup group](https://www.meetup.com/Bioinformatics-London/events/230436340) (Apr 2016).
 
 
 # Education
