@@ -11,19 +11,19 @@ My interests include protein structures, molecular simulation, software developm
 
 Kandathil SM, __Greener JG__, Lau AM and Jones DT. Deep learning-based prediction of protein structure using learned representations of multiple sequence alignments, *bioRxiv* (2020) - [link](https://www.biorxiv.org/content/10.1101/2020.11.27.401232v1)
 
-__Greener JG\*__, Desai N\*, Kandathil SM and Jones DT. Near-complete protein structural modelling of the minimal genome, *arXiv* (2020) - [link](https://arxiv.org/abs/2007.06623)
+__Greener JG\*__, Desai N\*, Kandathil SM and Jones DT. Near-complete protein structural modelling of the minimal genome, *arXiv* (2020) 2007.06623 - [link](https://arxiv.org/abs/2007.06623)
 
-__Greener JG__, Selvaraj J and Ward BJ. BioStructures.jl: read, write and manipulate macromolecular structures in Julia, *Bioinformatics* (2020) - [link](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa502/5837108?guestAccessKey=aec90643-1d43-4521-9883-4a4a669187da) - [code](https://github.com/BioJulia/BioStructures.jl)
+__Greener JG__, Selvaraj J and Ward BJ. BioStructures.jl: read, write and manipulate macromolecular structures in Julia, *Bioinformatics* (2020) 36(14), 4206-4207 - [link](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa502/5837108?guestAccessKey=aec90643-1d43-4521-9883-4a4a669187da) - [code](https://github.com/BioJulia/BioStructures.jl)
 
-__Greener JG\*__, Kandathil SM\* and Jones DT. Deep learning extends de novo protein modelling coverage of genomes using iteratively predicted structural constraints, *Nature Communications* (2019) - [link](https://www.nature.com/articles/s41467-019-11994-0) - [website](http://bioinf.cs.ucl.ac.uk/psipred) - [code](https://github.com/psipred/DMPfold)
+__Greener JG\*__, Kandathil SM\* and Jones DT. Deep learning extends de novo protein modelling coverage of genomes using iteratively predicted structural constraints, *Nature Communications* (2019) 10:3977 - [link](https://www.nature.com/articles/s41467-019-11994-0) - [website](http://bioinf.cs.ucl.ac.uk/psipred) - [code](https://github.com/psipred/DMPfold)
 
-Kandathil SM, __Greener JG__ and Jones DT. Recent Developments in Deep Learning Applied to Protein Structure Prediction, *Proteins* (2019) - [link](https://onlinelibrary.wiley.com/doi/10.1002/prot.25824)
+Kandathil SM, __Greener JG__ and Jones DT. Recent Developments in Deep Learning Applied to Protein Structure Prediction, *Proteins* (2019) 87(12), 1179-1189 - [link](https://onlinelibrary.wiley.com/doi/10.1002/prot.25824)
 
-Kandathil SM, __Greener JG__ and Jones DT. Prediction of inter-residue contacts with DeepMetaPSICOV in CASP13, *Proteins* (2019) - [link](https://onlinelibrary.wiley.com/doi/full/10.1002/prot.25779) - [code](https://github.com/psipred/DeepMetaPSICOV)
+Kandathil SM, __Greener JG__ and Jones DT. Prediction of inter-residue contacts with DeepMetaPSICOV in CASP13, *Proteins* (2019) 87(12), 1092-1099 - [link](https://onlinelibrary.wiley.com/doi/full/10.1002/prot.25779) - [code](https://github.com/psipred/DeepMetaPSICOV)
 
 __Greener JG\*__, Moffat L\* and Jones DT. Design of metalloproteins and novel protein folds using variational autoencoders, *Scientific Reports* (2018) 8:16189 - [link](https://www.nature.com/articles/s41598-018-34533-1) - [code](https://github.com/psipred/protein-vae)
 
-Craven GB, Affron DP, Allen CE, Matthies S, __Greener JG__, Morgan RML, Tate EW, Armstrong A and Mann DJ. High-Throughput Kinetic Analysis for Target-Directed Covalent Ligand Discovery, *Angewandte Chemie International Edition* (2018) 57 - [link](http://onlinelibrary.wiley.com/doi/10.1002/anie.201711825/full)
+Craven GB, Affron DP, Allen CE, Matthies S, __Greener JG__, Morgan RML, Tate EW, Armstrong A and Mann DJ. High-Throughput Kinetic Analysis for Target-Directed Covalent Ligand Discovery, *Angewandte Chemie International Edition* (2018) 57(19), 5257-5261 - [link](http://onlinelibrary.wiley.com/doi/10.1002/anie.201711825/full)
 
 __Greener JG__ and Sternberg MJE. Structure-based prediction of protein allostery, *Current Opinion in Structural Biology* (2018) 50, 1-8 - [link](http://www.sciencedirect.com/science/article/pii/S0959440X17301252)
 
