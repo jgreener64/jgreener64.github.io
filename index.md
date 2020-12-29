@@ -9,6 +9,8 @@ My interests include protein structures, molecular simulation, software developm
 
 [Google Scholar page](https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=IG6H3tIAAAAJ)
 
+Kandathil SM, __Greener JG__, Lau AM and Jones DT. Deep learning-based prediction of protein structure using learned representations of multiple sequence alignments, *bioRxiv* (2020) - [link](https://www.biorxiv.org/content/10.1101/2020.11.27.401232v1)
+
 __Greener JG\*__, Desai N\*, Kandathil SM and Jones DT. Near-complete protein structural modelling of the minimal genome, *arXiv* (2020) - [link](https://arxiv.org/abs/2007.06623)
 
 __Greener JG__, Selvaraj J and Ward BJ. BioStructures.jl: read, write and manipulate macromolecular structures in Julia, *Bioinformatics* (2020) - [link](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa502/5837108?guestAccessKey=aec90643-1d43-4521-9883-4a4a669187da) - [code](https://github.com/BioJulia/BioStructures.jl)
