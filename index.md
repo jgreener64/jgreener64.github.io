@@ -9,6 +9,8 @@ My interests include protein structures, molecular simulation, software developm
 
 [Google Scholar page](https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=IG6H3tIAAAAJ)
 
+__Greener JG__ and Jones DT. Differentiable molecular simulation can learn all the parameters in a coarse-grained force field for proteins, *bioRxiv* (2021) - [link](https://www.biorxiv.org/content/10.1101/2021.02.05.429941v1) - [code](https://github.com/psipred/cgdms)
+
 Kandathil SM, __Greener JG__, Lau AM and Jones DT. Deep learning-based prediction of protein structure using learned representations of multiple sequence alignments, *bioRxiv* (2020) - [link](https://www.biorxiv.org/content/10.1101/2020.11.27.401232v1)
 
 __Greener JG\*__, Desai N\*, Kandathil SM and Jones DT. Near-complete protein structural modelling of the minimal genome, *arXiv* (2020) 2007.06623 - [link](https://arxiv.org/abs/2007.06623)
