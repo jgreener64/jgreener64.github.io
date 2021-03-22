@@ -47,6 +47,8 @@ Runner-up prize for best presentation at Imperial College London Department of L
 
 # Talks
 
+Microsoft Research New England ML Ideas Lunch (Mar 2021) - [slides](https://docs.google.com/presentation/d/1FkSsUWMBQTbiGhc1u30qRcj25CslL5xnt9gAyqIcRjM/edit?usp=sharing)
+
 Imperial College Computational Biology Society (Nov 2020) - [slides](https://docs.google.com/presentation/d/1zkJ8UwSwu2nsjIwHvIiTXL2z4fyxs_kJDjxjwoB8vBo/edit?usp=sharing)
 
 KQ Codes Technical Social (Jan 2020) - [slides](https://docs.google.com/presentation/d/1wWdqTR1Ifls-psjcj-Euv6LY7Z5LWBei7VsiqPlB46E/edit?usp=sharing).
