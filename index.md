@@ -1,6 +1,6 @@
 I am a research fellow (postdoc) in the [Bioinformatics Group](http://bioinf.cs.ucl.ac.uk/introduction) at [University College London](https://www.ucl.ac.uk) (UCL). The group was based at the [Francis Crick Institute](https://www.crick.ac.uk) but has now moved back to UCL. Previously I was a PhD student in the [Structural Bioinformatics Group](http://www.sbg.bio.ic.ac.uk/index.html) at [Imperial College London](https://www.imperial.ac.uk).
 
-My interests include protein structures, molecular simulation, software development and open science. Currently my research involves developing computational methods to predict and design protein structures, with a focus on deep learning. I am funded on the [ProCovar](http://bioinf.cs.ucl.ac.uk/procovar) grant by the ERC. See [this talk](https://www.youtube.com/watch?v=apv5YPM0HqY) for an overview of our work.
+My interests include protein structures, molecular simulation, software development and open science. Currently my research involves developing computational methods to predict and design protein structures, with a focus on deep learning. I am funded on the [ProCovar](http://bioinf.cs.ucl.ac.uk/procovar) grant by the ERC. See [this talk](https://www.youtube.com/watch?v=apv5YPM0HqY) for an overview of our work. You can also find me on [Twitter](https://twitter.com/jgreener64).
 
 ![Modulation of adenylate cyclase](images/protein.png)
 
@@ -90,3 +90,5 @@ Bioinformatics London [Meetup group](https://www.meetup.com/Bioinformatics-Londo
 # Contact
 
 Email: j.greener at ucl.ac.uk
+
+Twitter: [@jgreener64](https://twitter.com/jgreener64)
