@@ -1,17 +1,18 @@
-I am a research fellow (postdoc) in the [Bioinformatics Group](http://bioinf.cs.ucl.ac.uk/introduction) at [University College London](https://www.ucl.ac.uk) (UCL). The group was based at the [Francis Crick Institute](https://www.crick.ac.uk) but has now moved back to UCL. Previously I was a PhD student in the [Structural Bioinformatics Group](http://www.sbg.bio.ic.ac.uk/index.html) at [Imperial College London](https://www.imperial.ac.uk).
+I am an independent researcher at the [MRC Laboratory of Molecular Biology](https://www2.mrc-lmb.cam.ac.uk) working on improving molecular simulations. Previously I was a research fellow (postdoc) in the [Bioinformatics Group](http://bioinf.cs.ucl.ac.uk/introduction) at [University College London](https://www.ucl.ac.uk) (UCL) and a PhD student in the [Structural Bioinformatics Group](http://www.sbg.bio.ic.ac.uk/index.html) at [Imperial College London](https://www.imperial.ac.uk).
 
-My interests include protein structures, molecular simulation, software development and open science. Currently my research involves developing computational methods to predict and design protein structures, with a focus on deep learning. I am funded on the [ProCovar](http://bioinf.cs.ucl.ac.uk/procovar) grant by the ERC. See [this talk](https://www.youtube.com/watch?v=apv5YPM0HqY) for an overview of our work. You can also find me on [Twitter](https://twitter.com/jgreener64).
+My interests include molecular simulation, protein structures, software development and open science. Currently my work aims to use the concept of differentiable programming to improve the force fields used to simulate proteins, enabling us to better study disordered proteins and protein aggregation. You can also find me on [Twitter](https://twitter.com/jgreener64).
 
 ![Modulation of adenylate cyclase](images/protein.png)
-
 
 # Publications
 
 [Google Scholar page](https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=IG6H3tIAAAAJ)
 
+Moffat L, __Greener JG__ and Jones DT. Using AlphaFold for Rapid and Accurate Fixed Backbone Protein Design, *bioRxiv* (2021) - [link](https://www.biorxiv.org/content/10.1101/2021.08.24.457549v1)
+
 __Greener JG__ and Jones DT. Differentiable molecular simulation can learn all the parameters in a coarse-grained force field for proteins, *bioRxiv* (2021) - [link](https://www.biorxiv.org/content/10.1101/2021.02.05.429941v1) - [code](https://github.com/psipred/cgdms)
 
-Kandathil SM, __Greener JG__, Lau AM and Jones DT. Deep learning-based prediction of protein structure using learned representations of multiple sequence alignments, *bioRxiv* (2020) - [link](https://www.biorxiv.org/content/10.1101/2020.11.27.401232v1)
+Kandathil SM, __Greener JG__, Lau AM and Jones DT. Ultrafast end-to-end protein structure prediction enables high-throughput exploration of uncharacterised proteins, *bioRxiv* (2020) - [link](https://www.biorxiv.org/content/10.1101/2020.11.27.401232v2) - [code](https://github.com/psipred/DMPfold2)
 
 __Greener JG\*__, Desai N\*, Kandathil SM and Jones DT. Near-complete protein structural modelling of the minimal genome, *arXiv* (2020) 2007.06623 - [link](https://arxiv.org/abs/2007.06623)
 
@@ -33,7 +34,6 @@ __Greener JG__, Filippis I and Sternberg MJE. Predicting protein dynamics and al
 
 __Greener JG__ and Sternberg MJE. AlloPred: prediction of allosteric pockets on proteins using normal mode perturbation analysis, *BMC Bioinformatics* (2015) 16:335 - [link](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0771-1) - [website](http://www.sbg.bio.ic.ac.uk/allopred/home) - [code](https://github.com/jgreener64/allopred)
 
-
 # Awards
 
 Warren DeLano Structural Bioinformatics and Computational Biophysics Award for best presentation at 3DSIG 2016.
@@ -43,7 +43,6 @@ Awarded ISMB/ECCB Travel Fellowship to attend ISMB 2019 by 3DSIG and ISCB.
 Prize for highest mark in MSc class (2014).
 
 Runner-up prize for best presentation at Imperial College London Department of Life Sciences Research Day (2017).
-
 
 # Talks
 
@@ -63,7 +62,6 @@ Friday Wrap talk at Institute of Structural and Molecular Biology (May 2019) - [
 
 Bioinformatics London [Meetup group](https://www.meetup.com/Bioinformatics-London/events/230436340) (Apr 2016).
 
-
 # Education
 
 **2014-2017** - *Imperial College London* - PhD in Structural Bioinformatics - Funded by [BBSRC](http://www.imperial.ac.uk/bbsrc-doctoral-training-partnership)
@@ -71,7 +69,6 @@ Bioinformatics London [Meetup group](https://www.meetup.com/Bioinformatics-Londo
 **2013-2014** - *Imperial College London* - MSc Bioinformatics and Theoretical Systems Biology - Funded by [BBSRC](http://www.imperial.ac.uk/bbsrc-doctoral-training-partnership) - Distinction
 
 **2009-2013** - *Emmanuel College, University of Cambridge* - MSci and BA Hons Natural Sciences (Chemistry) - 2.1 classification in all years
-
 
 # Experience and skills
 
@@ -84,8 +81,7 @@ Bioinformatics London [Meetup group](https://www.meetup.com/Bioinformatics-Londo
 - Experience with deep learning (CNNs, autoencoders) and other machine learning approaches (SVMs).
 - Supervision of two ten-week MSc projects and a ten-week BSc project at Imperial, involving project design and regular meetings with the students.
 - Demonstration in undergraduate and graduate computational practicals at Imperial and UCL.
-- Peer reviewed 13 scientific papers, 1 funding proposal and was on the review committee for JuliaCon 2018.
-
+- Peer reviewed 16 scientific papers, 1 funding proposal and was on the review committee for JuliaCon 2018.
 
 # Contact
 
