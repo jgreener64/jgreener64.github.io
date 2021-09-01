@@ -85,6 +85,6 @@ Bioinformatics London [Meetup group](https://www.meetup.com/Bioinformatics-Londo
 
 # Contact
 
-Email: j.greener at ucl.ac.uk
+Email: jgreener at mrc-lmb.cam.ac.uk
 
 Twitter: [@jgreener64](https://twitter.com/jgreener64)
