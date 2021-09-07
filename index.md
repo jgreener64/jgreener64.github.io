@@ -10,7 +10,7 @@ My interests include molecular simulation, protein structures, software developm
 
 Moffat L, __Greener JG__ and Jones DT. Using AlphaFold for Rapid and Accurate Fixed Backbone Protein Design, *bioRxiv* (2021) - [link](https://www.biorxiv.org/content/10.1101/2021.08.24.457549v1)
 
-__Greener JG__ and Jones DT. Differentiable molecular simulation can learn all the parameters in a coarse-grained force field for proteins, *bioRxiv* (2021) - [link](https://www.biorxiv.org/content/10.1101/2021.02.05.429941v1) - [code](https://github.com/psipred/cgdms)
+__Greener JG__ and Jones DT. Differentiable molecular simulation can learn all the parameters in a coarse-grained force field for proteins, *PLoS ONE* (2021) 16(9), e0256990 - [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0256990) - [code](https://github.com/psipred/cgdms)
 
 Kandathil SM, __Greener JG__, Lau AM and Jones DT. Ultrafast end-to-end protein structure prediction enables high-throughput exploration of uncharacterised proteins, *bioRxiv* (2020) - [link](https://www.biorxiv.org/content/10.1101/2020.11.27.401232v2) - [code](https://github.com/psipred/DMPfold2)
 
