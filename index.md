@@ -80,7 +80,6 @@ Bioinformatics London [Meetup group](https://www.meetup.com/Bioinformatics-Londo
 - Member of the open source BioJulia project - wrote the [BioStructures.jl](https://github.com/BioJulia/BioStructures.jl) package that deals with parsing and manipulating macromolecular structures. Have also made contributions to the [Biopython](http://biopython.org) project, written the [Molly.jl](https://github.com/JuliaMolSim/Molly.jl) package for molecular simulation in Julia and written some [pdb-benchmarks](https://github.com/jgreener64/pdb-benchmarks).
 - Lead web developer for the Write on Point project that gives applicants to university the skills to write an effective personal statement.
 - Proficient with Python, PyTorch, Julia, UNIX and the Django web-development framework. Some experience with C++, C#, R, Java, JavaScript, SQL and HTML/CSS. Familiar with unit testing, version control, automated builds and Docker.
-- Experience with deep learning (CNNs, autoencoders) and other machine learning approaches (SVMs).
 - Supervision of two ten-week MSc projects and a ten-week BSc project at Imperial, involving project design and regular meetings with the students.
 - Demonstration in undergraduate and graduate computational practicals at Imperial and UCL.
 - Peer reviewed 16 scientific papers, 1 funding proposal and was on the review committee for JuliaCon 2018.
