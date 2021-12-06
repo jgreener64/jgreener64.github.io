@@ -1,6 +1,6 @@
 I am an independent researcher at the [MRC Laboratory of Molecular Biology](https://www2.mrc-lmb.cam.ac.uk) working on improving molecular simulations. Previously I was a research fellow (postdoc) in the [Bioinformatics Group](http://bioinf.cs.ucl.ac.uk/introduction) at [University College London](https://www.ucl.ac.uk) (UCL) and a PhD student in the [Structural Bioinformatics Group](http://www.sbg.bio.ic.ac.uk/index.html) at [Imperial College London](https://www.imperial.ac.uk).
 
-My interests include molecular simulation, protein structures, software development and open science. Currently my work aims to use the concept of differentiable programming to improve the force fields used to simulate proteins, enabling us to better study disordered proteins and protein aggregation. You can also find me on [Twitter](https://twitter.com/jgreener64).
+My interests include molecular simulation, protein structures, software development and open science. Currently my work aims to use the concept of differentiable programming to improve the force fields used to simulate proteins, enabling us to better study disordered proteins and protein aggregation - see more on my [LMB web page](https://www2.mrc-lmb.cam.ac.uk/group-leaders/a-to-g/joe-greener). You can also find me on [Twitter](https://twitter.com/jgreener64).
 
 ![Modulation of adenylate cyclase](images/protein.png)
 
