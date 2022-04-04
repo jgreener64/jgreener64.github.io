@@ -84,7 +84,7 @@ Bioinformatics London [Meetup group](https://www.meetup.com/Bioinformatics-Londo
 - Proficient with Python, PyTorch, Julia, UNIX and the Django web-development framework. Some experience with C++, C#, R, Java, JavaScript, SQL and HTML/CSS. Familiar with unit testing, version control, automated builds and Docker.
 - Supervision of two ten-week MSc projects and a ten-week BSc project at Imperial, involving project design and regular meetings with the students.
 - Demonstration in undergraduate and graduate computational practicals at Imperial and UCL.
-- Peer reviewed 16 scientific papers, 1 funding proposal and was on the review committee for JuliaCon 2018.
+- Peer reviewed 20 scientific papers, 1 funding proposal and was on the review committee for JuliaCon 2018.
 
 # Contact
 
