@@ -48,6 +48,10 @@ Runner-up prize for best presentation at Imperial College London Department of L
 
 # Talks
 
+8th Annual CCP-BioSim Conference invited talk (Jun 2022) - [slides](https://docs.google.com/presentation/d/1thJOrj8kAWKxLRWAEcDZ1tng0d2E4IWIyfJ4yot6wPs/edit?usp=sharing)
+
+Lennard Jones Centre (May 2022) - [video](https://www.youtube.com/watch?v=0MLl6mQWtEQ) - [slides](https://docs.google.com/presentation/d/1jf9Zt58D1TWdc9p6YPxtGRNtlddvkSr8shWU5rTgIFM/edit?usp=sharing)
+
 Scientific Machine Learning Webinar Series (Mar 2022) - [video](https://www.cmu.edu/aced/sciML.html) - [slides](https://docs.google.com/presentation/d/1Ukvmyt2tUPmGV6ryIgvuGMnJy5-b9awlmiPJfdMm4uQ/edit?usp=sharing)
 
 Microsoft Research New England ML Ideas Lunch (Mar 2021) - [slides](https://docs.google.com/presentation/d/1FkSsUWMBQTbiGhc1u30qRcj25CslL5xnt9gAyqIcRjM/edit?usp=sharing)
