@@ -38,6 +38,8 @@ __Greener JG__ and Sternberg MJE. AlloPred: prediction of allosteric pockets on 
 
 # Talks
 
+JuliaMolSim minisymposium at JuliaCon 2022 (Jul 2022) - [video](https://youtu.be/trapn-yIv8g?t=1889) - [slides](https://docs.google.com/presentation/d/1Wkurom5G2N_qwqNueGwLCyYmpETT6dyeuW6UfUlrb5A/edit?usp=sharing)
+
 8th Annual CCP-BioSim Conference invited talk (Jun 2022) - [slides](https://docs.google.com/presentation/d/1thJOrj8kAWKxLRWAEcDZ1tng0d2E4IWIyfJ4yot6wPs/edit?usp=sharing)
 
 Lennard Jones Centre (May 2022) - [video](https://www.youtube.com/watch?v=0MLl6mQWtEQ) - [slides](https://docs.google.com/presentation/d/1jf9Zt58D1TWdc9p6YPxtGRNtlddvkSr8shWU5rTgIFM/edit?usp=sharing)
