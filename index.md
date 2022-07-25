@@ -36,16 +36,6 @@ __Greener JG__, Filippis I and Sternberg MJE. Predicting protein dynamics and al
 
 __Greener JG__ and Sternberg MJE. AlloPred: prediction of allosteric pockets on proteins using normal mode perturbation analysis, *BMC Bioinformatics* (2015) 16:335 - [link](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0771-1) - [website](http://www.sbg.bio.ic.ac.uk/allopred/home) - [code](https://github.com/jgreener64/allopred)
 
-# Awards
-
-Warren DeLano Structural Bioinformatics and Computational Biophysics Award for best presentation at 3DSIG 2016.
-
-Awarded ISMB/ECCB Travel Fellowship to attend ISMB 2019 by 3DSIG and ISCB.
-
-Prize for highest mark in MSc class (2014).
-
-Runner-up prize for best presentation at Imperial College London Department of Life Sciences Research Day (2017).
-
 # Talks
 
 8th Annual CCP-BioSim Conference invited talk (Jun 2022) - [slides](https://docs.google.com/presentation/d/1thJOrj8kAWKxLRWAEcDZ1tng0d2E4IWIyfJ4yot6wPs/edit?usp=sharing)
@@ -77,6 +67,16 @@ Bioinformatics London [Meetup group](https://www.meetup.com/Bioinformatics-Londo
 **2013-2014** - *Imperial College London* - MSc Bioinformatics and Theoretical Systems Biology - Funded by [BBSRC](http://www.imperial.ac.uk/bbsrc-doctoral-training-partnership) - Distinction
 
 **2009-2013** - *Emmanuel College, University of Cambridge* - MSci and BA Hons Natural Sciences (Chemistry) - 2.1 classification in all years
+
+# Awards
+
+Warren DeLano Structural Bioinformatics and Computational Biophysics Award for best presentation at 3DSIG 2016.
+
+Awarded ISMB/ECCB Travel Fellowship to attend ISMB 2019 by 3DSIG and ISCB.
+
+Prize for highest mark in MSc class (2014).
+
+Runner-up prize for best presentation at Imperial College London Department of Life Sciences Research Day (2017).
 
 # Experience and skills
 
