@@ -10,9 +10,9 @@ My interests include molecular simulation, protein structures, software developm
 
 __Greener JG__ and Jamali K. Fast protein structure searching using structure graph embeddings, *bioRxiv* (2022) - [link](https://www.biorxiv.org/content/10.1101/2022.11.28.518224v1) - [code](https://github.com/jgreener64/progres)
 
-__Greener JG\*__, Kandathil SM\*, Moffat L and Jones DT. A guide to machine learning for biologists, *Nature Reviews Molecular Cell Biology* (2022) - [link](https://www.nature.com/articles/s41580-021-00407-0) - [open link](https://rdcu.be/cx9lv)
+__Greener JG\*__, Kandathil SM\*, Moffat L and Jones DT. A guide to machine learning for biologists, *Nature Reviews Molecular Cell Biology* (2022) 23, 40-55 - [link](https://www.nature.com/articles/s41580-021-00407-0) - [open link](https://rdcu.be/cx9lv)
 
-Kandathil SM, __Greener JG__, Lau AM and Jones DT. Ultrafast end-to-end protein structure prediction enables high-throughput exploration of uncharacterized proteins, *Proceedings of the National Academy of Sciences* (2022) - [link](https://www.pnas.org/doi/full/10.1073/pnas.2113348119) - [code](https://github.com/psipred/DMPfold2)
+Kandathil SM, __Greener JG__, Lau AM and Jones DT. Ultrafast end-to-end protein structure prediction enables high-throughput exploration of uncharacterized proteins, *Proceedings of the National Academy of Sciences* (2022) 119(4), e2113348119 - [link](https://www.pnas.org/doi/full/10.1073/pnas.2113348119) - [code](https://github.com/psipred/DMPfold2)
 
 Moffat L, __Greener JG__ and Jones DT. Using AlphaFold for Rapid and Accurate Fixed Backbone Protein Design, *bioRxiv* (2021) - [link](https://www.biorxiv.org/content/10.1101/2021.08.24.457549v1)
 
