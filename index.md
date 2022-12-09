@@ -8,13 +8,15 @@ My interests include molecular simulation, protein structures, software developm
 
 [Google Scholar page](https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=IG6H3tIAAAAJ)
 
-__Greener JG\*__, Kandathil SM\*, Moffat L and Jones DT. A guide to machine learning for biologists, *Nature Reviews Molecular Cell Biology* (2021) - [link](https://www.nature.com/articles/s41580-021-00407-0) - [open link](https://rdcu.be/cx9lv)
+__Greener JG__ and Jamali K. Fast protein structure searching using structure graph embeddings, *bioRxiv* (2022) - [link](https://www.biorxiv.org/content/10.1101/2022.11.28.518224v1) - [code](https://github.com/jgreener64/progres)
+
+__Greener JG\*__, Kandathil SM\*, Moffat L and Jones DT. A guide to machine learning for biologists, *Nature Reviews Molecular Cell Biology* (2022) - [link](https://www.nature.com/articles/s41580-021-00407-0) - [open link](https://rdcu.be/cx9lv)
+
+Kandathil SM, __Greener JG__, Lau AM and Jones DT. Ultrafast end-to-end protein structure prediction enables high-throughput exploration of uncharacterized proteins, *Proceedings of the National Academy of Sciences* (2022) - [link](https://www.pnas.org/doi/full/10.1073/pnas.2113348119) - [code](https://github.com/psipred/DMPfold2)
 
 Moffat L, __Greener JG__ and Jones DT. Using AlphaFold for Rapid and Accurate Fixed Backbone Protein Design, *bioRxiv* (2021) - [link](https://www.biorxiv.org/content/10.1101/2021.08.24.457549v1)
 
 __Greener JG__ and Jones DT. Differentiable molecular simulation can learn all the parameters in a coarse-grained force field for proteins, *PLoS ONE* (2021) 16(9), e0256990 - [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0256990) - [code](https://github.com/psipred/cgdms)
-
-Kandathil SM, __Greener JG__, Lau AM and Jones DT. Ultrafast end-to-end protein structure prediction enables high-throughput exploration of uncharacterised proteins, *bioRxiv* (2020) - [link](https://www.biorxiv.org/content/10.1101/2020.11.27.401232v2) - [code](https://github.com/psipred/DMPfold2)
 
 __Greener JG\*__, Desai N\*, Kandathil SM and Jones DT. Near-complete protein structural modelling of the minimal genome, *arXiv* (2020) 2007.06623 - [link](https://arxiv.org/abs/2007.06623)
 
@@ -36,7 +38,25 @@ __Greener JG__, Filippis I and Sternberg MJE. Predicting protein dynamics and al
 
 __Greener JG__ and Sternberg MJE. AlloPred: prediction of allosteric pockets on proteins using normal mode perturbation analysis, *BMC Bioinformatics* (2015) 16:335 - [link](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0771-1) - [website](http://www.sbg.bio.ic.ac.uk/allopred/home) - [code](https://github.com/jgreener64/allopred)
 
+# Software
+
+Some software I have written or contributed to:
+- [Molly.jl](https://github.com/JuliaMolSim/Molly.jl) - molecular simulation in Julia
+- [Progres](https://github.com/jgreener64/progres) - fast protein structure searching
+- [BioStructures.jl](https://github.com/BioJulia/BioStructures.jl) - a Julia package to read, write and manipulate macromolecular structures
+- [mmterm](https://github.com/jgreener64/mmterm) - view proteins and trajectories in the terminal
+- [Bio3DView.jl](https://github.com/jgreener64/Bio3DView.jl) - view macromolecular structures from Julia
+- [pdb-benchmarks](https://github.com/jgreener64/pdb-benchmarks) - benchmarking common tasks on proteins in various languages and packages
+- [cgdms](https://github.com/psipred/cgdms) - differentiable molecular simulation of proteins with a coarse-grained potential
+- [DMPfold](https://github.com/psipred/DMPfold) and [DMPfold2](https://github.com/psipred/DMPfold2) - de novo protein structure prediction
+- [AtomsBase.jl](https://github.com/JuliaMolSim/AtomsBase.jl) - a Julian abstract interface for atomic structures
+- [Biopython](http://biopython.org) - biology tools in Python
+
+There is more software associated with a few of the papers listed above.
+
 # Talks
+
+Crick Christmas Lecture 2022 (Dec 2022) - [slides](https://docs.google.com/presentation/d/1ilWqWmYNuuMeO-vhJqukBaGfW9FXa7WeFyykKuZmmzc/edit?usp=sharing)
 
 JuliaMolSim minisymposium at JuliaCon 2022 (Jul 2022) - [video](https://youtu.be/trapn-yIv8g?t=1889) - [slides](https://docs.google.com/presentation/d/1Wkurom5G2N_qwqNueGwLCyYmpETT6dyeuW6UfUlrb5A/edit?usp=sharing)
 
@@ -62,14 +82,6 @@ Friday Wrap talk at Institute of Structural and Molecular Biology (May 2019) - [
 
 Bioinformatics London [Meetup group](https://www.meetup.com/Bioinformatics-London/events/230436340) (Apr 2016).
 
-# Education
-
-**2014-2017** - *Imperial College London* - PhD in Structural Bioinformatics - Funded by [BBSRC](http://www.imperial.ac.uk/bbsrc-doctoral-training-partnership)
-
-**2013-2014** - *Imperial College London* - MSc Bioinformatics and Theoretical Systems Biology - Funded by [BBSRC](http://www.imperial.ac.uk/bbsrc-doctoral-training-partnership) - Distinction
-
-**2009-2013** - *Emmanuel College, University of Cambridge* - MSci and BA Hons Natural Sciences (Chemistry) - 2.1 classification in all years
-
 # Awards
 
 Warren DeLano Structural Bioinformatics and Computational Biophysics Award for best presentation at 3DSIG 2016.
@@ -79,18 +91,6 @@ Awarded ISMB/ECCB Travel Fellowship to attend ISMB 2019 by 3DSIG and ISCB.
 Prize for highest mark in MSc class (2014).
 
 Runner-up prize for best presentation at Imperial College London Department of Life Sciences Research Day (2017).
-
-# Experience and skills
-
-- Three-month [PIPS](http://www.bbsrc.ac.uk/skills/investing-doctoral-training/pips) placement at [benevolent.ai](http://benevolent.ai), a growing company that uses machine learning approaches to predict drug candidates. My project involved developing an in-house tool as part of the biomedical team for use by drug discoverers.
-- Eight-week placement at the University of São Paulo (summer 2013) on virtual screening to re-purpose existing drugs.
-- Eight-week placement at Imperial College London (summer 2011) on computational modelling of ionic liquids.
-- Member of the open source BioJulia project - wrote the [BioStructures.jl](https://github.com/BioJulia/BioStructures.jl) package that deals with parsing and manipulating macromolecular structures. Have also made contributions to the [Biopython](http://biopython.org) project, written the [Molly.jl](https://github.com/JuliaMolSim/Molly.jl) package for molecular simulation in Julia and written some [pdb-benchmarks](https://github.com/jgreener64/pdb-benchmarks).
-- Lead web developer for the Write on Point project that gives applicants to university the skills to write an effective personal statement.
-- Proficient with Python, PyTorch, Julia, UNIX and the Django web-development framework. Some experience with C++, C#, R, Java, JavaScript, SQL and HTML/CSS. Familiar with unit testing, version control, automated builds and Docker.
-- Supervision of two ten-week MSc projects and a ten-week BSc project at Imperial, involving project design and regular meetings with the students.
-- Demonstration in undergraduate and graduate computational practicals at Imperial and UCL.
-- Peer reviewed 20 scientific papers, 1 funding proposal and was on the review committee for JuliaCon 2018.
 
 # Contact
 
