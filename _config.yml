@@ -1,8 +1,0 @@
-title: Joe Greener
-description: MRC Laboratory of Molecular Biology
-google_analytics: 
-show_downloads: false
-theme: jekyll-theme-minimal
-
-gems:
-  - jekyll-mentions
