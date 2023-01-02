@@ -1,6 +1,15 @@
-# Celeste Template
+# jgreener64.github.io
 
-Based on the wonderful [Celeste](https://github.com/nicoelayda/celeste) by @nicoelayda.
+My academic CV and posts as a website - [http://jgreener64.github.io](http://jgreener64.github.io).
+
+Template is the celeste Franklin template, based on [Celeste](https://github.com/nicoelayda/celeste) by @nicoelayda.
+
+To test locally:
+```julia
+using Franklin
+cd("jgreener64.github.io")
+serve()
+```
 
 ## Development
 
