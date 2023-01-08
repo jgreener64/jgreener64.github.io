@@ -101,10 +101,3 @@ Awarded ISMB/ECCB Travel Fellowship to attend ISMB 2019 by 3DSIG and ISCB.
 Prize for highest mark in MSc class (2014).
 
 Runner-up prize for best presentation at Imperial College London Department of Life Sciences Research Day (2017).
-
-# Contact
-
-Email: jgreener at mrc-lmb.cam.ac.uk
-
-Twitter: [@jgreener64](https://twitter.com/jgreener64)
-GitHub: [jgreener64](https://github.com/jgreener64)
