@@ -6,7 +6,13 @@ I am an independent researcher at the [MRC Laboratory of Molecular Biology](http
 
 My interests include molecular simulation, protein structures, software development and open science. Currently my work aims to use the concept of differentiable programming to improve the force fields used to simulate proteins, enabling us to better study disordered proteins and protein aggregation - see more on my [LMB web page](https://www2.mrc-lmb.cam.ac.uk/group-leaders/a-to-g/joe-greener). You can also find me on [Twitter](https://twitter.com/jgreener64) and [GitHub](https://github.com/jgreener64).
 
-![Modulation of adenylate cyclase](images/protein.png)
+~~~
+<div class="row">
+  <div class="container">
+    <img src="/assets/protein.png" alt="Modulation of adenylate cyclase">
+  </div>
+</div>
+~~~
 
 # Publications
 

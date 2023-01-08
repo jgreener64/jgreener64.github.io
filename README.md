@@ -11,6 +11,8 @@ cd("jgreener64.github.io")
 serve()
 ```
 
+To deploy, push to GitHub.
+
 ## Development
 
 Any changes to the CSS should be made to the SCSS files in `_sass/` and compiled using `Sass.jl` as follows:
