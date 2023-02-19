@@ -2,6 +2,6 @@
 
 # Posts
 
-I occasionally write about science, these writings can be found here:
+I occasionally write about science:
 
-- [Science, the hard way](/posts/science_the_hard_way/) (xx/01/23)
+- [Science, the hard way](/posts/science_the_hard_way/) (19/02/23)
