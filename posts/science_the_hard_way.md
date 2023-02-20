@@ -61,6 +61,8 @@ Please don't take this post as a complaint about the recent hype for ML in struc
 [^casp]: CASP is an assessment, but any assessment worth coming top of becomes a competition.
 [^blog]: This post would have to be heavily sanitised if it were to appear in a journal, for example.
 
+*Let me know what you think on [this Twitter thread](https://twitter.com/jgreener64/status/1627455207914278917).*
+
 ## References
 
 * \biblabel{Alquraishi2019}{Alquraishi (2019)} Alquraishi M. End-to-End Differentiable Learning of Protein Structure, *Cell Systems* 8(4), 292-301 (2019)
