@@ -66,6 +66,8 @@ There is more software associated with a few of the papers listed above.
 
 # Talks
 
+Talk at Institute of Genetics and Cancer, University of Edinburgh (Mar 2023) - [slides](https://docs.google.com/presentation/d/11naV12vWIZ3TlmaX8-IB4nx6vUOwLXdcvZWABLPd09A/edit?usp=sharing)
+
 Enzyme Conference 2023 (Feb 2023) - [video](https://www.youtube.com/live/NB7xUHQNox8?feature=share&t=9018) - [slides](https://docs.google.com/presentation/d/1xsi2tbOJ3ceHu8-4izIMmo6M5EfnU1BrVwEtRBybZIM/edit?usp=sharing)
 
 Crick Christmas Lecture 2022 (Dec 2022) - [slides](https://docs.google.com/presentation/d/1ilWqWmYNuuMeO-vhJqukBaGfW9FXa7WeFyykKuZmmzc/edit?usp=sharing)
