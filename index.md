@@ -18,6 +18,8 @@ My interests include molecular simulation, protein structures, software developm
 
 [Google Scholar page](https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=IG6H3tIAAAAJ)
 
+Roesch E, __Greener JG__, MacLean AL, Nassar H, Rackauckas C, Holy TE and Stumpf MPH. Julia for biologists, *Nature Methods* (2023) - [link](https://www.nature.com/articles/s41592-023-01832-z)
+
 __Greener JG__ and Jamali K. Fast protein structure searching using structure graph embeddings, *bioRxiv* (2022) - [link](https://www.biorxiv.org/content/10.1101/2022.11.28.518224v1) - [code](https://github.com/jgreener64/progres)
 
 __Greener JG\*__, Kandathil SM\*, Moffat L and Jones DT. A guide to machine learning for biologists, *Nature Reviews Molecular Cell Biology* (2022) 23, 40-55 - [link](https://www.nature.com/articles/s41580-021-00407-0) - [open link](https://rdcu.be/cx9lv)
