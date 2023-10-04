@@ -72,6 +72,8 @@ There is more software associated with a few of the papers listed above.
 
 # Talks
 
+Talks and practical at SINEQ summer school, École des ponts ParisTech (Sep 2023) - [slides](https://docs.google.com/presentation/d/1SjzRi7jFbgFwP9kupwdtkxmr2x0OWjzzXwnoenCcCQg/edit?usp=sharing) - [notebook](https://github.com/noeblassel/SINEQSummerSchool2023/blob/main/notebooks/molly_average.ipynb)
+
 Talk at Institute of Genetics and Cancer, University of Edinburgh (Mar 2023) - [slides](https://docs.google.com/presentation/d/11naV12vWIZ3TlmaX8-IB4nx6vUOwLXdcvZWABLPd09A/edit?usp=sharing)
 
 Enzyme Conference 2023 (Feb 2023) - [video](https://www.youtube.com/live/NB7xUHQNox8?feature=share&t=9018) - [slides](https://docs.google.com/presentation/d/1xsi2tbOJ3ceHu8-4izIMmo6M5EfnU1BrVwEtRBybZIM/edit?usp=sharing)
