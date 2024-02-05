@@ -1,12 +1,12 @@
-@def title = "Home"
+@def title = "Joe Greener"
 
 # Joe Greener
 
-I am a group leader at the [MRC Laboratory of Molecular Biology](https://www2.mrc-lmb.cam.ac.uk) working on improving molecular simulations. Previously I was a research fellow (postdoc) in the [Bioinformatics Group](http://bioinf.cs.ucl.ac.uk/introduction) at [University College London](https://www.ucl.ac.uk) (UCL) and a PhD student in the [Structural Bioinformatics Group](http://www.sbg.bio.ic.ac.uk/index.html) at [Imperial College London](https://www.imperial.ac.uk).
+I am a group leader at the [MRC Laboratory of Molecular Biology](https://www2.mrc-lmb.cam.ac.uk) working on improving molecular simulations. My group page is [here](https://www2.mrc-lmb.cam.ac.uk/groups/greener) and my entry on the LMB website is [here](https://www2.mrc-lmb.cam.ac.uk/group-leaders/a-to-g/joe-greener). I am currently looking to grow the group. You can also find me on [Twitter](https://twitter.com/jgreener64) and [GitHub](https://github.com/jgreener64).
 
-My interests include molecular simulation, protein structures, software development and open science. Currently my work aims to use the concept of differentiable programming to improve the force fields used to simulate proteins, enabling us to better study disordered proteins and protein aggregation - see more on my [LMB web page](https://www2.mrc-lmb.cam.ac.uk/group-leaders/a-to-g/joe-greener). You can also find me on [Twitter](https://twitter.com/jgreener64) and [GitHub](https://github.com/jgreener64).
+My interests include molecular simulation, protein structures, software development and open science. Currently my work aims to use the concept of differentiable programming to improve the force fields used to simulate biomolecules, enabling us to better study disordered proteins and protein-ligand interactions.
 
-My group page is under construction but I will be advertising for postdoc and student positions in Autumn 2023. Feel free to email me to discuss informally.
+Previously I was a research fellow (postdoc) in the [Bioinformatics Group](http://bioinf.cs.ucl.ac.uk/introduction) at [University College London](https://www.ucl.ac.uk) (UCL) and a PhD student in the [Structural Bioinformatics Group](http://www.sbg.bio.ic.ac.uk/index.html) at [Imperial College London](https://www.imperial.ac.uk).
 
 ~~~
 <div class="row">
