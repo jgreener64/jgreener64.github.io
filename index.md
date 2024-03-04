@@ -20,7 +20,9 @@ Previously I was a research fellow (postdoc) in the [Bioinformatics Group](http:
 
 [Google Scholar page](https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=IG6H3tIAAAAJ)
 
-__Greener JG__. Differentiable simulation to develop molecular dynamics force fields for disordered proteins, *bioRxiv* (2023) - [link](https://www.biorxiv.org/content/10.1101/2023.08.29.555352) - [code](https://github.com/greener-group/GB99dms)
+Yu CWH, Fischer ES, __Greener JG__, Yang J, Zhang Z, Freund SMV, Barford D. Molecular mechanism of Mad2 conformational conversion promoted by the Mad2-interaction motif of Cdc20, *bioRxiv* (2024) - [link](https://www.biorxiv.org/content/10.1101/2024.03.03.583158)
+
+__Greener JG__. Differentiable simulation to develop molecular dynamics force fields for disordered proteins, *Chemical Science* (2024) - [link](https://pubs.rsc.org/en/content/articlelanding/2024/sc/d3sc05230c) - [code](https://github.com/greener-group/GB99dms)
 
 Roesch E, __Greener JG__, MacLean AL, Nassar H, Rackauckas C, Holy TE and Stumpf MPH. Julia for biologists, *Nature Methods* 20, 655-664 (2023) - [link](https://www.nature.com/articles/s41592-023-01832-z)
 
