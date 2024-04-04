@@ -26,7 +26,7 @@ __Greener JG__. Differentiable simulation to develop molecular dynamics force fi
 
 Roesch E, __Greener JG__, MacLean AL, Nassar H, Rackauckas C, Holy TE and Stumpf MPH. Julia for biologists, *Nature Methods* 20, 655-664 (2023) - [link](https://www.nature.com/articles/s41592-023-01832-z)
 
-__Greener JG__ and Jamali K. Fast protein structure searching using structure graph embeddings, *bioRxiv* (2022) - [link](https://www.biorxiv.org/content/10.1101/2022.11.28.518224v1) - [code](https://github.com/jgreener64/progres)
+__Greener JG__ and Jamali K. Fast protein structure searching using structure graph embeddings, *bioRxiv* (2022) - [link](https://www.biorxiv.org/content/10.1101/2022.11.28.518224v1) - [code](https://github.com/greener-group/progres)
 
 __Greener JG\*__, Kandathil SM\*, Moffat L and Jones DT. A guide to machine learning for biologists, *Nature Reviews Molecular Cell Biology* 23, 40-55 (2022) - [link](https://www.nature.com/articles/s41580-021-00407-0) - [open link](https://rdcu.be/cx9lv)
 
@@ -60,7 +60,7 @@ __Greener JG__ and Sternberg MJE. AlloPred: prediction of allosteric pockets on 
 
 Some software I have written or contributed to:
 - [Molly.jl](https://github.com/JuliaMolSim/Molly.jl) - molecular simulation in Julia
-- [Progres](https://github.com/jgreener64/progres) - fast protein structure searching
+- [Progres](https://github.com/greener-group/progres) - fast protein structure searching
 - [BioStructures.jl](https://github.com/BioJulia/BioStructures.jl) - a Julia package to read, write and manipulate macromolecular structures
 - [mmterm](https://github.com/jgreener64/mmterm) - view proteins and trajectories in the terminal
 - [Bio3DView.jl](https://github.com/jgreener64/Bio3DView.jl) - view macromolecular structures from Julia
