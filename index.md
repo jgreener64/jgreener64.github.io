@@ -74,7 +74,7 @@ There is more software associated with a few of the papers listed above.
 
 # Talks
 
-JuliaCon 2024 (Jul 2024) - [slides](https://docs.google.com/presentation/d/1E7Ez4WQAOfizXirQdsILZp1UZfgV0U_BBoxEQm86ZVE/edit?usp=sharing)
+JuliaCon 2024 (Jul 2024) - [video](https://www.youtube.com/watch?v=t6st0vo0hh4&t=11001s) - [slides](https://docs.google.com/presentation/d/1E7Ez4WQAOfizXirQdsILZp1UZfgV0U_BBoxEQm86ZVE/edit?usp=sharing)
 
 Enzyme Conference 2024 (Mar 2024) - [video](https://www.youtube.com/live/fRZwgVbcdv8?si=xtBI_mNkLewFSgdG&t=2641) - [slides](https://docs.google.com/presentation/d/1az51CuXO-X3vDraJrASUK5Vn5fK8r2ijLJPvBze0sfE/edit?usp=sharing)
 
