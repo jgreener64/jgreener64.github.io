@@ -28,13 +28,13 @@ __Greener JG__. Differentiable simulation to develop molecular dynamics force fi
 
 Roesch E, __Greener JG__, MacLean AL, Nassar H, Rackauckas C, Holy TE and Stumpf MPH. Julia for biologists, *Nature Methods* 20, 655-664 (2023) - [link](https://www.nature.com/articles/s41592-023-01832-z)
 
-__Greener JG__ and Jamali K. Fast protein structure searching using structure graph embeddings, *bioRxiv* (2022) - [link](https://www.biorxiv.org/content/10.1101/2022.11.28.518224v1) - [code](https://github.com/greener-group/progres)
+__Greener JG__ and Jamali K. Fast protein structure searching using structure graph embeddings, *bioRxiv* (2022) - [link](https://www.biorxiv.org/content/10.1101/2022.11.28.518224) - [code](https://github.com/greener-group/progres)
 
 __Greener JG\*__, Kandathil SM\*, Moffat L and Jones DT. A guide to machine learning for biologists, *Nature Reviews Molecular Cell Biology* 23, 40-55 (2022) - [link](https://www.nature.com/articles/s41580-021-00407-0) - [open link](https://rdcu.be/cx9lv)
 
 Kandathil SM, __Greener JG__, Lau AM and Jones DT. Ultrafast end-to-end protein structure prediction enables high-throughput exploration of uncharacterized proteins, *Proceedings of the National Academy of Sciences* 119(4), e2113348119 (2022) - [link](https://www.pnas.org/doi/full/10.1073/pnas.2113348119) - [code](https://github.com/psipred/DMPfold2)
 
-Moffat L, __Greener JG__ and Jones DT. Using AlphaFold for Rapid and Accurate Fixed Backbone Protein Design, *bioRxiv* (2021) - [link](https://www.biorxiv.org/content/10.1101/2021.08.24.457549v1)
+Moffat L, __Greener JG__ and Jones DT. Using AlphaFold for Rapid and Accurate Fixed Backbone Protein Design, *bioRxiv* (2021) - [link](https://www.biorxiv.org/content/10.1101/2021.08.24.457549)
 
 __Greener JG__ and Jones DT. Differentiable molecular simulation can learn all the parameters in a coarse-grained force field for proteins, *PLoS ONE* 16(9), e0256990 (2021) - [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0256990) - [code](https://github.com/psipred/cgdms)
 
