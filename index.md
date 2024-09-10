@@ -22,7 +22,7 @@ Previously I was a research fellow (postdoc) in the [Bioinformatics Group](http:
 
 Wang Y, Takaba K, Chen MS, Wieder M, Xu Y, Zhu T, Zhang JZH, Nagle A, Yu K, Wang X, Cole DJ, Rackers JA, Cho K, __Greener JG__, Eastman P, Martiniani S and Tuckerman ME. On the design space between molecular mechanics and machine learning force fields, *arXiv* (2024) - [link](https://arxiv.org/abs/2409.01931)
 
-Yu CWH, Fischer ES, __Greener JG__, Yang J, Zhang Z, Freund SMV, Barford D. Molecular mechanism of Mad2 conformational conversion promoted by the Mad2-interaction motif of Cdc20, *bioRxiv* (2024) - [link](https://www.biorxiv.org/content/10.1101/2024.03.03.583158)
+Yu CWH, Fischer ES, __Greener JG__, Yang J, Zhang Z, Freund SMV and Barford D. Molecular mechanism of Mad2 conformational conversion promoted by the Mad2-interaction motif of Cdc20, *bioRxiv* (2024) - [link](https://www.biorxiv.org/content/10.1101/2024.03.03.583158)
 
 __Greener JG__. Differentiable simulation to develop molecular dynamics force fields for disordered proteins, *Chemical Science* 15, 4897-4909 (2024) - [link](https://pubs.rsc.org/en/content/articlelanding/2024/sc/d3sc05230c) - [code](https://github.com/greener-group/GB99dms)
 
