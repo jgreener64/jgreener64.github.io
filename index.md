@@ -76,6 +76,8 @@ There is more software associated with a few of the papers listed above.
 
 # Talks
 
+MolSSI workshop on Julia for Computational Molecular and Materials Science (Oct 2024) - [slides](https://docs.google.com/presentation/d/1KSs22jJL2lYCQE3qKgEuZGYLLCoLB7XpRpN4jJu4a6I/edit?usp=sharing)
+
 Computational Molecular Science 2024 (Sep 2024) - [slides](https://docs.google.com/presentation/d/1IJCnm6Q3XAN-CxlcEYXPuzPxLvfGp_EKnozutMI29Dg/edit?usp=sharing)
 
 JuliaCon 2024 (Jul 2024) - [video](https://www.youtube.com/watch?v=XTE5HSo-jx8) - [slides](https://docs.google.com/presentation/d/1E7Ez4WQAOfizXirQdsILZp1UZfgV0U_BBoxEQm86ZVE/edit?usp=sharing)
