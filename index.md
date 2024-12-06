@@ -20,6 +20,8 @@ Previously I was a research fellow (postdoc) in the [Bioinformatics Group](http:
 
 [Google Scholar page](https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=IG6H3tIAAAAJ)
 
+__Greener JG__. Reversible molecular simulation for training classical and machine learning force fields, *arXiv* (2024) - [link](https://arxiv.org/abs/2412.04374) - [code](https://github.com/greener-group/rev-sim)
+
 Wang Y, Takaba K, Chen MS, Wieder M, Xu Y, Zhu T, Zhang JZH, Nagle A, Yu K, Wang X, Cole DJ, Rackers JA, Cho K, __Greener JG__, Eastman P, Martiniani S and Tuckerman ME. On the design space between molecular mechanics and machine learning force fields, *arXiv* (2024) - [link](https://arxiv.org/abs/2409.01931)
 
 Yu CWH, Fischer ES, __Greener JG__, Yang J, Zhang Z, Freund SMV and Barford D. Molecular mechanism of Mad2 conformational conversion promoted by the Mad2-interaction motif of Cdc20, *bioRxiv* (2024) - [link](https://www.biorxiv.org/content/10.1101/2024.03.03.583158)
