@@ -20,17 +20,17 @@ Previously I was a research fellow (postdoc) in the [Bioinformatics Group](http:
 
 [Google Scholar page](https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=IG6H3tIAAAAJ)
 
+__Greener JG__ and Jamali K. Fast protein structure searching using structure graph embeddings, *Bioinformatics Advances* 5:1, vbaf042 (2025) - [link](https://academic.oup.com/bioinformaticsadvances/article/5/1/vbaf042/8107707) - [code](https://github.com/greener-group/progres) - [server](https://progres.mrc-lmb.cam.ac.uk)
+
+Yu CWH, Fischer ES, __Greener JG__, Yang J, Zhang Z, Freund SMV and Barford D. Molecular mechanism of Mad2 conformational conversion promoted by the Mad2-interaction motif of Cdc20, *Protein Science* 34(4), e70099 (2025) - [link](https://onlinelibrary.wiley.com/doi/full/10.1002/pro.70099)
+
+Wang Y, Takaba K, Chen MS, Wieder M, Xu Y, Zhu T, Zhang JZH, Nagle A, Yu K, Wang X, Cole DJ, Rackers JA, Cho K, __Greener JG__, Eastman P, Martiniani S and Tuckerman ME. On the design space between molecular mechanics and machine learning force fields, *Applied Physics Reviews* 12, 021304 (2025) - [link](https://pubs.aip.org/aip/apr/article/12/2/021304/3342041/On-the-design-space-between-molecular-mechanics)
+
 __Greener JG__. Reversible molecular simulation for training classical and machine learning force fields, *arXiv* (2024) - [link](https://arxiv.org/abs/2412.04374) - [code](https://github.com/greener-group/rev-sim)
-
-Wang Y, Takaba K, Chen MS, Wieder M, Xu Y, Zhu T, Zhang JZH, Nagle A, Yu K, Wang X, Cole DJ, Rackers JA, Cho K, __Greener JG__, Eastman P, Martiniani S and Tuckerman ME. On the design space between molecular mechanics and machine learning force fields, *arXiv* (2024) - [link](https://arxiv.org/abs/2409.01931)
-
-Yu CWH, Fischer ES, __Greener JG__, Yang J, Zhang Z, Freund SMV and Barford D. Molecular mechanism of Mad2 conformational conversion promoted by the Mad2-interaction motif of Cdc20, *bioRxiv* (2024) - [link](https://www.biorxiv.org/content/10.1101/2024.03.03.583158)
 
 __Greener JG__. Differentiable simulation to develop molecular dynamics force fields for disordered proteins, *Chemical Science* 15, 4897-4909 (2024) - [link](https://pubs.rsc.org/en/content/articlelanding/2024/sc/d3sc05230c) - [code](https://github.com/greener-group/GB99dms)
 
 Roesch E, __Greener JG__, MacLean AL, Nassar H, Rackauckas C, Holy TE and Stumpf MPH. Julia for biologists, *Nature Methods* 20, 655-664 (2023) - [link](https://www.nature.com/articles/s41592-023-01832-z)
-
-__Greener JG__ and Jamali K. Fast protein structure searching using structure graph embeddings, *bioRxiv* (2022) - [link](https://www.biorxiv.org/content/10.1101/2022.11.28.518224) - [code](https://github.com/greener-group/progres) - [server](https://progres.mrc-lmb.cam.ac.uk)
 
 __Greener JG\*__, Kandathil SM\*, Moffat L and Jones DT. A guide to machine learning for biologists, *Nature Reviews Molecular Cell Biology* 23, 40-55 (2022) - [link](https://www.nature.com/articles/s41580-021-00407-0) - [open link](https://rdcu.be/cx9lv)
 
