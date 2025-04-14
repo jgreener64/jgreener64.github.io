@@ -78,7 +78,7 @@ There is more software associated with a few of the papers listed above.
 
 # Talks
 
-SBS Bioinformatics Seminar (Apr 2025...) - [slides](https://docs.google.com/presentation/d/1_YNIXh_gzwx0_yOx1GZXbroHsPwA_uq2cYEXRfGLiNM/edit?usp=sharing)
+SBS Bioinformatics Seminar (Apr 2025) - [slides](https://docs.google.com/presentation/d/1_YNIXh_gzwx0_yOx1GZXbroHsPwA_uq2cYEXRfGLiNM/edit?usp=sharing)
 
 Cambridge Cheminformatics Meet (Feb 2025) - [video](https://youtu.be/Hd_KuxXLCUg?si=hoSzTnSO9Q-ubV_7&t=2078) - [slides](https://docs.google.com/presentation/d/1pxtdKks8JlgXbs6qb_LQDGjq9l_N5iqWAfydXeBh-hE/edit?usp=sharing)
 
