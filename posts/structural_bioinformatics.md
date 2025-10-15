@@ -25,7 +25,8 @@ CASP has struggled for funding, been given a reprieve by Google, and continues t
 
 3. Design new biomolecules. It's debatable whether this falls under the banner, but given that modern protein design and structure prediction use similar models it seems fair to include it. More broadly, design of drugs and organisms.
 
- 
+⠀
+
 ## How are we doing with respect to those aims?
 
 Structural bioinformatics in 2025 seems to be mainly three things:
