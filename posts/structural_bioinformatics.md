@@ -52,6 +52,8 @@ I'm sure I've missed papers and people are doing these things. I can't help but 
 
 *Thanks to Shaun Kandathil and Andy Lau for comments. All omissions remain my own.*
 
+*Let me know what you think on [this Bluesky thread](https://bsky.app/profile/jgreener64.bsky.social/post/3m3agmh32jk2w).*
+
 ## References
 
 * \biblabel{BarrioHernandez2023}{Barrio-Hernandez et al. 2023} Barrio-Hernandez I, Yeo J, Jänes J, Mirdita M, Gilchrist CLM, Wein T, Varadi M, Velankar S, Beltrao P and Steinegger M. Clustering predicted structures at the scale of the known protein universe, *Nature* 622, 637–645 (2023)
