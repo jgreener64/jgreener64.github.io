@@ -6,7 +6,7 @@ I occasionally write about science:
 
 - [Science, the hard way](/posts/science_the_hard_way/) (19/02/23)
 - [My favourite papers 2001-2023](/posts/favourite_papers/) (16/01/25)
-- [Where next for structural bioinformatics?](/posts/structural bioinformatics/) (15/10/25)
+- [Where next for structural bioinformatics?](/posts/structural_bioinformatics/) (15/10/25)
 
 # Media
 
