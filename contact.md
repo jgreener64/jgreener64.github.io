@@ -2,7 +2,7 @@
 
 # Contact
 
-Email: jgreener at mrc-lmb.cam.ac.uk
+Email: jgreener at mrclmb.ac.uk
 
 Bluesky: [@jgreener64](https://bsky.app/profile/jgreener64.bsky.social)
 

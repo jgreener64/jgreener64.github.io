@@ -2,7 +2,7 @@
 
 # Joe Greener
 
-I am a group leader at the [MRC Laboratory of Molecular Biology](https://www2.mrc-lmb.cam.ac.uk) working on improving molecular simulations. My group page is [here](https://www2.mrc-lmb.cam.ac.uk/groups/greener) and my entry on the LMB website is [here](https://www2.mrc-lmb.cam.ac.uk/group-leaders/a-to-g/joe-greener). I am currently looking to grow the group. You can also find me on [X](https://twitter.com/jgreener64), [Bluesky](https://bsky.app/profile/jgreener64.bsky.social) and [GitHub](https://github.com/jgreener64).
+I am a group leader at the [MRC Laboratory of Molecular Biology](https://mrclmb.ac.uk) working on improving molecular simulations. My group page is [here](https://www2.mrc-lmb.cam.ac.uk/groups/greener) and my entry on the LMB website is [here](https://mrclmb.ac.uk/research-leaders/joe-greener). I am currently looking to grow the group. You can also find me on [X](https://twitter.com/jgreener64), [Bluesky](https://bsky.app/profile/jgreener64.bsky.social) and [GitHub](https://github.com/jgreener64).
 
 My interests include molecular simulation, protein structures, software development and open science. Currently my work aims to improve the molecular mechanics force fields used to simulate biomolecules with machine learning techniques. I am also interested in developing new types of machine learning force fields that are fast enough to simulate biomolecules.
 
