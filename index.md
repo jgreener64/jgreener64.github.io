@@ -20,7 +20,7 @@ Previously I was a research fellow (postdoc) in the [Bioinformatics Group](http:
 
 [Google Scholar page](https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=IG6H3tIAAAAJ)
 
-- Blanco-González A\*, Schulze TK\*, Rovers E, __Greener JG__. Training a force field for proteins and small molecules from scratch, *arXiv* (2026) - [link](https://arxiv.org/abs/2603.16770) - [code](https://github.com/greener-group/garnet)
+Blanco-González A\*, Schulze TK\*, Rovers E, __Greener JG__. Training a force field for proteins and small molecules from scratch, *arXiv* (2026) - [link](https://arxiv.org/abs/2603.16770) - [code](https://github.com/greener-group/garnet)
 
 __Greener JG__. Reversible molecular simulation for training classical and machine learning force fields, *Proceedings of the National Academy of Sciences* 122(22), e2426058122 (2025) - [link](https://www.pnas.org/doi/10.1073/pnas.2426058122) - [code](https://github.com/greener-group/rev-sim)
 
