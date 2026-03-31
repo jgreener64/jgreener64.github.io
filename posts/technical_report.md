@@ -11,7 +11,7 @@ Today we are excited to release our new protein structure model with state-of-th
 
 Here at MirageBio we are deeply committed to pivoting to the latest trends. Last year that was protein design, but apparently now it is binding affinity. Next year it will be disordered proteins, but we are avoiding that because NMR data is hard to understand. On our carefully chosen benchmarks - it's hard to overstate how carefully we selected these benchmarks - we show a 1% improvement over a competitor we didn't run properly.
 
-\figalt{A small molecule binding to a protein}{./images/technical_report_protein.png}
+\figalt{A small molecule binding to a protein}{/posts/images/technical_report_protein.png}
 *Competely accurate image of a small molecule binding to a protein. If we solve this problem, we solve drug discovery.*
 
 How did we do this? We will say it was due to an innovative model architecture, and nobody can complain because there is no chance of anyone seeing the code. Too much risk of people finding our licence violations for that. It was really because we joined forces with other industry partners to freely share data amongst non-academics. Oh, and we added a new activation function we heard someone talking about at NeurIPS.
