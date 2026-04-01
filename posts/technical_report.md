@@ -7,7 +7,7 @@ date = Date(2026, 4, 1)
 
 *Joe Greener - 1st April 2026*
 
-Today we are excited to release our new protein structure model with state-of-the-art performance. We are making it available as a technical report, because apparently even pre-prints are supposed to have a methods section. Besides, how can we silently edit the post unless we host it ourselves?
+Today we are excited to release our new protein structure model with state-of-the-art performance. We are making it available as a technical report, because even pre-prints are supposed to have a methods section. Besides, how can we silently edit the post unless we host it ourselves?
 
 Here at MirageBio we are deeply committed to pivoting to the latest trends. Last year that was protein design, but apparently now it is binding affinity. Next year it will be disordered proteins, but we are avoiding that because NMR data is hard to understand. On our carefully chosen benchmarks - it's hard to overstate how carefully we selected these benchmarks - we show a 1% improvement over a competitor we didn't run properly.
 
@@ -18,9 +18,9 @@ Here at MirageBio we are deeply committed to pivoting to the latest trends. Last
   </div>
 </div>
 ~~~
-*Competely accurate image of a small molecule binding to a protein. If we solve this problem, we solve drug discovery.*
+*Completely accurate image of a small molecule binding to a protein. If we solve this problem, we solve drug discovery.*
 
-How did we do this? We will say it was due to an innovative model architecture, and nobody can complain because there is no chance of anyone seeing the code. Too much risk of people finding our licence violations for that. It was really because we joined forces with other industry partners to freely share data amongst non-academics. Oh, and we added a new activation function we heard someone talking about at NeurIPS.
+How did we do this? We will say it was due to an innovative model architecture, and nobody can complain because there is no chance of anyone seeing the code. Too much risk of people finding our licence violations for that. It was really because we joined forces with other industry partners to freely share data among non-academics. Oh, and we added a new activation function we heard someone talking about at NeurIPS.
 
 Our model generalises well across biology. For example, we took one protein kinase out of the dataset, left the other 500 in, and found excellent performance on the held-out protein. In fact, you don't even need to provide the target: we can rank a series of ligands without knowing what you want them to bind to. Our model generalises to unseen proteins. You'll have trouble proving us wrong there, because any protein you can provide has been seen.
 
