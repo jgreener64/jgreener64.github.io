@@ -80,6 +80,8 @@ There is more software associated with a few of the papers listed above.
 
 # Talks
 
+Talk at Chemistry Department, University of Cambridge (Apr 2026) - [slides](https://docs.google.com/presentation/d/1Uyq1M4QUKNh1H2xAgOTQ8t_UCs74DD7bh8_pVYYSnBY/edit?usp=sharing)
+
 Talk at Bind Research (Mar 2026) - [slides](https://docs.google.com/presentation/d/10XLIh4fhVDHtoP2E9DD6DyCxsVCw169Ixkt-3qhobhM/edit?usp=sharing)
 
 CECAM Summer School on Sampling High-Dimensional Probability Measures with Applications in (Non)Equilibrium Molecular Dynamics and Statistics (Jul 2025) - [slides](https://docs.google.com/presentation/d/1CvGwFn0XjiIfAQ562RlIPGjXRKnsNXLYjmPRDFS7SQs/edit?usp=sharing)
