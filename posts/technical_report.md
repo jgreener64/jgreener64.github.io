@@ -29,3 +29,5 @@ In order to install our model you will need to download 2 TB of uncompressed seq
 You can also run our model via our proprietary GUI that one of our team vibe-coded whilst they were avoiding doing proper validation. We haven't found a case where it doesn't work, because we haven't used it ourselves yet. Under the hood we hammer a free web server to get our multiple sequence alignments, and we get angry when they rate-limit our requests and our paying customers complain to us.
 
 We don't know what you're going to do with it. We don't even know what we are going to do with it. But we plan to keep following the hype, at least until corporate realises that we aren't making any money. In the mean time, come and find us at one of our 20 posters at ICLR.
+
+*Let me know what you think on [this Bluesky thread](https://bsky.app/profile/jgreener64.bsky.social/post/3migd67geo222).*
