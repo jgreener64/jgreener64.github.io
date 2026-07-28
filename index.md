@@ -4,7 +4,7 @@
 
 I am a group leader at the [MRC Laboratory of Molecular Biology](https://mrclmb.ac.uk) working on improving molecular simulations. My group page is [here](https://www2.mrc-lmb.cam.ac.uk/groups/greener) and my entry on the LMB website is [here](https://mrclmb.ac.uk/research-leaders/joe-greener). You can also find me on [Bluesky](https://bsky.app/profile/jgreener64.bsky.social) and [GitHub](https://github.com/jgreener64).
 
-My interests include molecular simulation, protein structures, software development and open science. Currently my work aims to improve the molecular mechanics force fields used to simulate biomolecules with machine learning techniques. I am also interested in developing new types of machine learning force fields that are fast enough to simulate biomolecules.
+My interests include molecular simulation, protein structures, software development and open science. Currently my work aims to improve the molecular mechanics force fields used to simulate biomolecules with machine learning techniques. I am also interested in developing new types of machine learning force fields that are fast enough to simulate biomolecules, and exploring conformational space with machine learning.
 
 Previously I was a research fellow (postdoc) in the [Bioinformatics Group](http://bioinf.cs.ucl.ac.uk/introduction) at [University College London](https://www.ucl.ac.uk) (UCL) and a PhD student in the [Structural Bioinformatics Group](http://www.sbg.bio.ic.ac.uk/index.html) at [Imperial College London](https://www.imperial.ac.uk).
 
@@ -19,6 +19,8 @@ Previously I was a research fellow (postdoc) in the [Bioinformatics Group](http:
 # Publications
 
 [Google Scholar page](https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=IG6H3tIAAAAJ)
+
+__Greener JG__. Where next for structural bioinformatics?, *PLOS Biology* 24(7), e3003903 (2026) - [link](https://doi.org/10.1371/journal.pbio.3003903) - [blog post](https://jgreener64.github.io/posts/structural_bioinformatics)
 
 Blanco-González A\*, Schulze TK\*, Rovers E, __Greener JG__. Training a force field for proteins and small molecules from scratch, *arXiv* (2026) - [link](https://arxiv.org/abs/2603.16770) - [code](https://github.com/greener-group/garnet)
 

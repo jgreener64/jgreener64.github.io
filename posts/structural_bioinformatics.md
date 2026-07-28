@@ -7,6 +7,8 @@ date = Date(2025, 10, 15)
 
 *Joe Greener - 15th October 2025*
 
+*An edited version of this post became [a perspective in PLOS Biology](https://doi.org/10.1371/journal.pbio.3003903)*
+
 I still remember the day I found out about AlphaFold 2 \citep{Jumper2021}. Sat at home in November 2020, shortly before the virtual CASP14 conference, I was idly playing a video game in the evening and hoping that COVID would end. An email pinged in from the CASP organisers providing a table of the results. In typical CASP fashion, it wasn't a simple ranking of each group's performance; it was a large table of results that required processing. I grew frustrated as I wrote a bash script to sort it. No matter how many times I tried, it seemed like one group had smashed it across the board. Then I realised: my script was fine, the problem had effectively been solved. My first thought was excitement, where is Slack, I need to talk about this. My second thought? Where does this leave structural bioinformatics.
 
 ## Cut to five years later
