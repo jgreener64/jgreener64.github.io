@@ -84,6 +84,8 @@ There is more software associated with a few of the papers listed above.
 
 # Talks
 
+Lecture on molecular dynamics at the Lennard-Jones Centre Summer School (Sep 2026) - [slides](https://docs.google.com/presentation/d/1L5jQYYQ5gboIN0CDmnlefB0FZQsU57JuLJLzW8lRGMs/edit?usp=sharing)
+
 Talk at Chemistry Department, University of Cambridge (Apr 2026) - [slides](https://docs.google.com/presentation/d/1Uyq1M4QUKNh1H2xAgOTQ8t_UCs74DD7bh8_pVYYSnBY/edit?usp=sharing)
 
 Talk at Bind Research (Mar 2026) - [slides](https://docs.google.com/presentation/d/10XLIh4fhVDHtoP2E9DD6DyCxsVCw169Ixkt-3qhobhM/edit?usp=sharing)
